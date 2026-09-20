@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: PELETEAU
+SIRET: 02408507800015
+TVA: FR43024085078
+Client: SAIFA
+SIRET client: 02404792000020
+Numero facture: FAC-202507-0022
+Date emission: 2025-07-26
+Date echeance: 2025-08-25
+IBAN: FR7631634554758464936039212
+BIC: BXVKRLTL
+Montant HT: 10337.42 EUR
+Montant TVA: 2067.48 EUR
+Montant TTC: 12404.90 EUR
+
+Lignes:
+- Re-Intermediate Ubiquitous Roi | qty=2 | pu=308.26 | total=616.52
+- Enable Front-End E-Services | qty=3 | pu=968.40 | total=2905.20
+- Extend Revolutionary Portals | qty=5 | pu=1363.14 | total=6815.70
+
+Notes:
+- Identifiant fournisseur potentiellement falsifie.

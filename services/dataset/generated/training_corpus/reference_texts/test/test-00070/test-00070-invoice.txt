@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: BANGA PIECES AUTO
+SIRET: 02405714300034
+TVA: FR46024057143
+Client: SUPER U
+SIRET client: 00728037300015
+Numero facture: FAC-202509-0070
+Date emission: 2025-09-17
+Date echeance: 2025-10-17
+IBAN: FR7641954829986144091375992
+BIC: FDYICJTC
+Montant HT: 5497.73 EUR
+Montant TVA: 1099.55 EUR
+Montant TTC: 6597.28 EUR
+
+Lignes:
+- Facilitate Robust Metrics | qty=5 | pu=278.27 | total=1391.35
+- Grow Innovative E-Business | qty=2 | pu=577.58 | total=1155.16
+- Implement Integrated Bandwidth | qty=3 | pu=983.74 | total=2951.22

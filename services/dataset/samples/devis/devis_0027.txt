@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: CONSULTING ACME SA
+SIRET: 06989489736809
+Numéro TVA intracommunautaire: FR94069894897
+Adresse: 83 rue de la Paix, 60683 Paris
+
+N° DEVIS: DEV-2026-9115
+Date de devis: 2025-08-06
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     47850.91 €    47850.91 €
+
+Montant HT :       47850.91 €
+TVA 10.0% :       4785.09 €
+Montant TTC :      52636.00 €
+
+Bon pour accord : ____________________

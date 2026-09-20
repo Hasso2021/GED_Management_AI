@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: TECHNO SERVICES SARL
+SIRET: 02901831697369
+Numéro TVA intracommunautaire: FR79029018316
+Adresse: 24 rue de la Paix, 82922 Paris
+
+N° FACTURE: FAC-2026-4610
+Date de facture: 2025-08-21
+Date d'échéance: 2025-10-05
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     10809.32 €    10809.32 €
+
+Montant HT :       10809.32 €
+TVA 5.5% :       594.51 €
+Montant TTC :      11403.83 €
+
+Règlement par virement bancaire à réception de facture.

@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE TSOUNDZOU 2
+SIRET: 02404912400175
+TVA: FR45024049124
+Client: JOLICAPRICE
+SIRET client: 01585158700061
+Numero facture: FAC-202603-0074
+Date emission: 2026-03-06
+IBAN: FR7651633859948946713489791
+BIC: JDWOYWQX
+Montant HT: 11795.30 EUR
+Montant TVA: 2359.06 EUR
+Montant TTC: 14154.36 EUR
+
+Lignes:
+- Redefine Visionary Metrics | qty=4 | pu=98.64 | total=394.56
+- Engage Next-Generation Experiences | qty=2 | pu=619.42 | total=1238.84
+- Seize Next-Generation Channels | qty=5 | pu=1061.29 | total=5306.45
+- Whiteboard Out-Of-The-Box Applications | qty=5 | pu=971.09 | total=4855.45
+
+Notes:
+- La date d'echeance est absente du document.

@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: SERVICES CONSULTING SAS
+SIRET: 04164477743652
+Numéro TVA intracommunautaire: FR89041644777
+Adresse: 24 rue de la Paix, 13280 Paris
+
+N° FACTURE: FAC-2026-9662
+Date de facture: 2025-05-11
+Date d'échéance: 2025-06-25
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     36043.54 €    36043.54 €
+
+Montant HT :       36043.54 €
+TVA 5.5% :       1982.39 €
+Montant TTC :      38025.93 €
+
+Règlement par virement bancaire à réception de facture.

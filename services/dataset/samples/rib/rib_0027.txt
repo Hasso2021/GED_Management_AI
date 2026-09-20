@@ -1,0 +1,16 @@
+Relevé d'identité bancaire — CIC
+
+Titulaire du compte
+Mme Isaac SANCHEZ
+
+Coordonnées du compte
+Code banque : 72034
+Code guichet : 83781
+Numéro de compte : 62156420629
+Clé RIB : 77
+
+IBAN : FR76 7203 4837 8162 1564 2062 977
+BIC : CMCIFRPA
+Domiciliation bancaire : Agence Universités Nice
+
+Document destiné à communiquer l'identité du compte à un tiers.

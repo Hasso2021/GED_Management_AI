@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: ACME ACME SA
+SIRET: 05203273196993
+Numéro TVA intracommunautaire: FR82052032731
+Adresse: 49 rue de la Paix, 53380 Paris
+
+N° FACTURE: FAC-2026-8637
+Date de facture: 2025-12-21
+Date d'échéance: 2026-02-04
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     8007.86 €    8007.86 €
+
+Montant HT :       8007.86 €
+TVA 10.0% :       800.79 €
+Montant TTC :      8808.65 €
+
+Règlement par virement bancaire à réception de facture.

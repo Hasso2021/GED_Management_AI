@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: CONSULTING ACME SAS
+SIRET: 04819028579927
+Numéro TVA intracommunautaire: FR30048190285
+Adresse: 29 rue de la Paix, 27336 Paris
+
+N° FACTURE: FAC-2026-9216
+Date de facture: 2025-03-20
+Date d'échéance: 2025-05-19
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     7530.95 €    7530.95 €
+
+Montant HT :       7530.95 €
+TVA 5.5% :       414.20 €
+Montant TTC :      7945.15 €
+
+Règlement par virement bancaire à réception de facture.

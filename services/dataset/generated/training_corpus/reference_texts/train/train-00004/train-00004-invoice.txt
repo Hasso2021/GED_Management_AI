@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: HYPERDISCOUNT
+SIRET: 02407969100010
+TVA: FR81024079691
+Client: LA BRIOCHE DOREE
+SIRET client: 01545121400041
+Numero facture: FAC-202603-0004
+Date emission: 2026-03-14
+Date echeance: 2026-04-13
+IBAN: FR7684215601005757419941392
+BIC: HMQUHRAD
+Montant HT: 7662.03 EUR
+Montant TVA: 1532.41 EUR
+Montant TTC: 9194.44 EUR
+
+Lignes:
+- Scale Distributed Deliverables | qty=3 | pu=1428.70 | total=4286.10
+- Reinvent End-To-End Markets | qty=3 | pu=1125.31 | total=3375.93

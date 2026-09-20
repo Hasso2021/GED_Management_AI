@@ -1,0 +1,22 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: SERVICE RAPIDE
+SIRET: 02407634100023
+TVA: FR22024076341
+Client: DORAS
+SIRET client: 01585179300180
+Numero facture: FAC-202509-0051
+Date emission: 2025-09-06
+Date echeance: 2025-10-06
+IBAN: FR7617040910109648431825069
+BIC: ZFFWLHMO
+Montant HT: 3461.53 EUR
+Montant TVA: 692.31 EUR
+Montant TTC: 4153.84 EUR
+
+Lignes:
+- Incubate Visionary Web-Readiness | qty=4 | pu=709.09 | total=2836.36
+- Matrix Dynamic Applications | qty=1 | pu=625.17 | total=625.17
+
+Notes:
+- Attestation hors validite.

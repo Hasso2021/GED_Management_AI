@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: CONSULTING DIGITAL SAS
+SIRET: 03303464411318
+Numéro TVA intracommunautaire: FR14033034644
+Adresse: 50 rue de la Paix, 80016 Paris
+
+N° DEVIS: DEV-2026-8156
+Date de devis: 2025-08-27
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     34756.25 €    34756.25 €
+
+Montant HT :       34756.25 €
+TVA 10.0% :       3475.62 €
+Montant TTC :      38231.87 €
+
+Bon pour accord : ____________________

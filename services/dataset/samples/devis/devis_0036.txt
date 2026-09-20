@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: INNOV CONSULTING SARL
+SIRET: 05878278676584
+Numéro TVA intracommunautaire: FR42058782786
+Adresse: 86 rue de la Paix, 72883 Paris
+
+N° DEVIS: DEV-2026-5069
+Date de devis: 2025-09-23
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     22897.77 €    22897.77 €
+
+Montant HT :       22897.77 €
+TVA 5.5% :       1259.38 €
+Montant TTC :      24157.15 €
+
+Bon pour accord : ____________________

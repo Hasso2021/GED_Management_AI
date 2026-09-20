@@ -1,0 +1,16 @@
+Relevé d'identité bancaire — BNP Paribas
+
+Titulaire du compte
+M. Aaron MEYER
+
+Coordonnées du compte
+Code banque : 33301
+Code guichet : 28878
+Numéro de compte : 91143553095
+Clé RIB : 68
+
+IBAN : FR76 3330 1288 7891 1435 5309 568
+BIC : BNPAFRPP
+Domiciliation bancaire : Agence République Grenoble
+
+Document destiné à communiquer l'identité du compte à un tiers.

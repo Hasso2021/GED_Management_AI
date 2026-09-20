@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: SOLUTIONS DIGITAL SASU
+SIRET: 06077353886791
+Numéro TVA intracommunautaire: FR08060773538
+Adresse: 87 rue de la Paix, 77311 Paris
+
+N° DEVIS: DEV-2026-7286
+Date de devis: 2025-09-29
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     38508.37 €    38508.37 €
+
+Montant HT :       38508.37 €
+TVA 5.5% :       2117.96 €
+Montant TTC :      40626.33 €
+
+Bon pour accord : ____________________

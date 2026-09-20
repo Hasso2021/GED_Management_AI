@@ -1,0 +1,24 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE ILONI
+SIRET: 02404912400159
+TVA: FR45024049124
+Client: DORAS LOCOUTI
+SIRET client: 01585179300461
+Numero facture: FAC-202510-0019
+Date emission: 2025-10-30
+Date echeance: 2025-11-29
+IBAN: FR7625975040857815745324631
+BIC: PAZLEKQH
+Montant HT: 17687.41 EUR
+Montant TVA: 3537.48 EUR
+Montant TTC: 21374.88 EUR
+
+Lignes:
+- Embrace Global Bandwidth | qty=4 | pu=506.07 | total=2024.28
+- Enhance Distributed Solutions | qty=5 | pu=1369.13 | total=6845.65
+- Syndicate Distributed Functionalities | qty=5 | pu=868.98 | total=4344.90
+- Streamline Next-Generation Systems | qty=3 | pu=1490.86 | total=4472.58
+
+Notes:
+- Montant TTC incoherent avec le detail des lignes.

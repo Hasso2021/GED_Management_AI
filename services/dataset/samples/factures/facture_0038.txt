@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: INNOV INNOV SARL
+SIRET: 05501886423492
+Numéro TVA intracommunautaire: FR46055018864
+Adresse: 97 rue de la Paix, 49037 Paris
+
+N° FACTURE: FAC-2026-7388
+Date de facture: 2026-01-22
+Date d'échéance: 2026-03-23
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     14867.56 €    14867.56 €
+
+Montant HT :       14867.56 €
+TVA 20.0% :       2973.51 €
+Montant TTC :      17841.07 €
+
+Règlement par virement bancaire à réception de facture.

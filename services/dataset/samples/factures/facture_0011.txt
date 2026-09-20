@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: CONSULTING SERVICES SASU
+SIRET: 02507771193820
+Numéro TVA intracommunautaire: FR42025077711
+Adresse: 76 rue de la Paix, 13959 Paris
+
+N° FACTURE: FAC-2026-9285
+Date de facture: 2025-10-23
+Date d'échéance: 2025-11-22
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     18376.27 €    18376.27 €
+
+Montant HT :       18376.27 €
+TVA 20.0% :       3675.25 €
+Montant TTC :      22051.52 €
+
+Règlement par virement bancaire à réception de facture.

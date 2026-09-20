@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: TRANSPORTS MORAND
+SIRET: 00648006500025
+TVA: FR49006480065
+Client: MAYOTTE PIECES AUTO
+SIRET client: 02406911400023
+Numero facture: FAC-202601-0033
+Date emission: 2026-01-29
+Date echeance: 2026-02-28
+IBAN: FR7611718358351066529636250
+BIC: ZFFIJUPE
+Montant HT: 7407.40 EUR
+Montant TVA: 1481.48 EUR
+Montant TTC: 8888.88 EUR
+
+Lignes:
+- Extend Web-Enabled Markets | qty=5 | pu=1330.77 | total=6653.85
+- Scale Virtual Schemas | qty=5 | pu=150.71 | total=753.55

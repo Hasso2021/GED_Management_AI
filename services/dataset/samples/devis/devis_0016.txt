@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: DIGITAL TECHNO SARL
+SIRET: 06870333810182
+Numéro TVA intracommunautaire: FR61068703338
+Adresse: 10 rue de la Paix, 33544 Paris
+
+N° DEVIS: DEV-2026-7537
+Date de devis: 2025-09-21
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     38031.79 €    38031.79 €
+
+Montant HT :       38031.79 €
+TVA 10.0% :       3803.18 €
+Montant TTC :      41834.97 €
+
+Bon pour accord : ____________________

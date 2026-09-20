@@ -1,0 +1,24 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: CAP MAY
+SIRET: 02403853100029
+TVA: FR82024038531
+Client: P.A.M.M.
+SIRET client: 00592019400031
+Numero facture: FAC-202510-0021
+Date emission: 2025-10-02
+Date echeance: 2025-11-01
+IBAN: FR7626994520267912674412535
+BIC: LTRKOSOO
+Montant HT: 5094.51 EUR
+Montant TVA: 1018.90 EUR
+Montant TTC: 6113.41 EUR
+
+Lignes:
+- Re-Intermediate Best-Of-Breed Architectures | qty=3 | pu=374.45 | total=1123.35
+- Grow Magnetic Action-Items | qty=1 | pu=407.20 | total=407.20
+- Iterate Back-End Web Services | qty=1 | pu=1321.52 | total=1321.52
+- Cultivate B2C E-Commerce | qty=2 | pu=1121.22 | total=2242.44
+
+Notes:
+- Identifiant fournisseur potentiellement falsifie.

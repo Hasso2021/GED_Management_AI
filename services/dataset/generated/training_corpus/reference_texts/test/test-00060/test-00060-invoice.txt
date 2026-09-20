@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: VANNERIE DU BOISLE
+SIRET: 00722033800037
+TVA: FR53007220338
+Client: ORALIA SICOV & OPTIM
+SIRET client: 01695093300065
+Numero facture: FAC-202511-0060
+Date emission: 2025-11-07
+Date echeance: 2025-12-07
+IBAN: FR7680210319813715956656115
+BIC: PCPYDGRO
+Montant HT: 9225.43 EUR
+Montant TVA: 1845.09 EUR
+Montant TTC: 11070.52 EUR
+
+Lignes:
+- Mesh Value-Added Initiatives | qty=4 | pu=203.46 | total=813.84
+- Evolve Plug-And-Play Systems | qty=3 | pu=516.28 | total=1548.84
+- Mesh Mission-Critical Vortals | qty=5 | pu=1372.55 | total=6862.75

@@ -1,0 +1,44 @@
+seed: 20260317
+defaults:
+  currency: EUR
+  payment_terms_days: 30
+  tax_rate: 0.20
+  company_pool_csv: inputs/company_pool.csv
+output:
+  image_width: 1654
+  image_height: 2339
+  jpeg_quality: 55
+splits:
+  train:
+    legitimate_pdf: 6
+    legitimate_scan: 6
+    legitimate_smartphone: 4
+    forged_amount_pdf: 4
+    forged_identifier_scan: 4
+    invoice_quote_mismatch: 4
+    expired_attestation: 4
+    attestation_siret_mismatch: 4
+    rib_mismatch: 3
+    missing_field_scan: 3
+  validation:
+    legitimate_pdf: 2
+    legitimate_scan: 2
+    legitimate_smartphone: 1
+    forged_amount_pdf: 1
+    forged_identifier_scan: 1
+    invoice_quote_mismatch: 1
+    expired_attestation: 1
+    attestation_siret_mismatch: 1
+    rib_mismatch: 1
+    missing_field_scan: 1
+  test:
+    legitimate_pdf: 2
+    legitimate_scan: 2
+    legitimate_smartphone: 2
+    forged_amount_pdf: 2
+    forged_identifier_scan: 2
+    invoice_quote_mismatch: 2
+    expired_attestation: 2
+    attestation_siret_mismatch: 2
+    rib_mismatch: 2
+    missing_field_scan: 2

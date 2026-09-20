@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: HERBEMONT
+SIRET: 01555088200714
+TVA: FR23015550882
+Client: DOUKA BE MANDZARSOUA
+SIRET client: 02404912400316
+Numero facture: FAC-202602-0005
+Date emission: 2026-02-28
+Date echeance: 2026-03-30
+IBAN: FR7606722740436114412734374
+BIC: UBNOAGLI
+Montant HT: 8102.35 EUR
+Montant TVA: 1620.47 EUR
+Montant TTC: 9722.82 EUR
+
+Lignes:
+- Facilitate Mission-Critical Users | qty=5 | pu=343.91 | total=1719.55
+- Benchmark Scalable Web Services | qty=4 | pu=1343.73 | total=5374.92
+- Revolutionize Revolutionary Architectures | qty=2 | pu=186.90 | total=373.80
+- Transition Dot-Com Bandwidth | qty=1 | pu=634.08 | total=634.08

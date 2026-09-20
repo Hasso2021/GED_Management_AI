@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: SOLUTIONS TECHNO SASU
+SIRET: 01872126248583
+Numéro TVA intracommunautaire: FR22018721262
+Adresse: 28 rue de la Paix, 29186 Paris
+
+N° FACTURE: FAC-2026-4302
+Date de facture: 2025-10-08
+Date d'échéance: 2025-11-22
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     1915.62 €    1915.62 €
+
+Montant HT :       1915.62 €
+TVA 5.5% :       105.36 €
+Montant TTC :      2020.98 €
+
+Règlement par virement bancaire à réception de facture.

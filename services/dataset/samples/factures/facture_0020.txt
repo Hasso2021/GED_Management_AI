@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: ACME TECHNO SAS
+SIRET: 08643127914553
+Numéro TVA intracommunautaire: FR45086431279
+Adresse: 73 rue de la Paix, 94282 Paris
+
+N° FACTURE: FAC-2026-8079
+Date de facture: 2025-06-10
+Date d'échéance: 2025-08-09
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     10056.57 €    10056.57 €
+
+Montant HT :       10056.57 €
+TVA 20.0% :       2011.31 €
+Montant TTC :      12067.88 €
+
+Règlement par virement bancaire à réception de facture.

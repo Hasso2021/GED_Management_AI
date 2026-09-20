@@ -1,0 +1,21 @@
+DEVIS
+
+Fournisseur: ENTREPRISE GENERALE
+SIRET: 02405048600018
+TVA: FR57024050486
+Client: LA TOUR D'AUXOIS
+SIRET client: 01605002300049
+Numero devis: DEV-202511-0027
+Date emission: 2025-10-26
+Date echeance: 2025-11-25
+Montant HT: 4815.17 EUR
+Montant TVA: 963.03 EUR
+Montant TTC: 5778.20 EUR
+
+Lignes:
+- Iterate Compelling Niches | qty=2 | pu=268.91 | total=537.82
+- Unleash Dynamic Partnerships | qty=4 | pu=1115.17 | total=4460.68
+
+Notes:
+- Devis commercial lie a la facture.
+- Le devis et la facture n'ont pas le meme montant.

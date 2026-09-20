@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: MBINGA BOIS
+SIRET: 02405651700022
+TVA: FR11024056517
+Client: MAGASIN ANTU
+SIRET client: 02405506300010
+Numero facture: FAC-202512-0056
+Date emission: 2025-12-02
+Date echeance: 2026-01-01
+IBAN: FR7602052056056826316635715
+BIC: LRJLJNMV
+Montant HT: 4890.97 EUR
+Montant TVA: 978.19 EUR
+Montant TTC: 5869.16 EUR
+
+Lignes:
+- Synergize Open-Source Initiatives | qty=4 | pu=572.43 | total=2289.72
+- Scale Cross-Platform Channels | qty=1 | pu=716.96 | total=716.96
+- Generate Bleeding-Edge Markets | qty=1 | pu=1435.04 | total=1435.04
+- Transform Integrated Action-Items | qty=3 | pu=149.75 | total=449.25

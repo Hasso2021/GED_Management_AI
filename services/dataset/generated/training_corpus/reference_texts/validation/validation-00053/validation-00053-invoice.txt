@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: FAZM
+SIRET: 02405832300023
+TVA: FR94024058323
+Client: AMENAGEMENTS SUPPER LUX (A.S.L)
+SIRET client: 02408267900028
+Numero facture: FAC-202509-0053
+Date emission: 2025-09-28
+Date echeance: 2025-10-28
+IBAN: FR7659119222326843285824176
+BIC: PSYDAOXB
+Montant HT: 9745.34 EUR
+Montant TVA: 1949.07 EUR
+Montant TTC: 11694.41 EUR
+
+Lignes:
+- Maximize Seamless Partnerships | qty=4 | pu=1152.11 | total=4608.44
+- Synergize Vertical Portals | qty=1 | pu=731.43 | total=731.43
+- Maximize Viral E-Business | qty=3 | pu=1468.49 | total=4405.47

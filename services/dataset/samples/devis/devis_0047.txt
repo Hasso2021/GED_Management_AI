@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: ACME SOLUTIONS SAS
+SIRET: 07953739159922
+Numéro TVA intracommunautaire: FR42079537391
+Adresse: 73 rue de la Paix, 83417 Paris
+
+N° DEVIS: DEV-2026-1305
+Date de devis: 2025-04-07
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     41563.64 €    41563.64 €
+
+Montant HT :       41563.64 €
+TVA 10.0% :       4156.36 €
+Montant TTC :      45720.00 €
+
+Bon pour accord : ____________________

@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: BELAY ARC EN CIEL MAYOTTE EIRL
+SIRET: 02404673200020
+TVA: FR47024046732
+Client: LEBTRONIC
+SIRET client: 02407563200018
+Numero facture: FAC-202601-0025
+Date emission: 2026-01-16
+Date echeance: 2026-02-15
+IBAN: FR7692159561284092158293362
+BIC: KCQAVCCW
+Montant HT: 7700.30 EUR
+Montant TVA: 1540.06 EUR
+Montant TTC: 9240.36 EUR
+
+Lignes:
+- Drive Impactful E-Markets | qty=4 | pu=687.04 | total=2748.16
+- Extend User-Centric Platforms | qty=5 | pu=787.98 | total=3939.90
+- Deploy Turn-Key Eyeballs | qty=4 | pu=253.06 | total=1012.24
+
+Notes:
+- Le devis et la facture n'ont pas le meme montant.

@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: TECHNO CONSULTING SASU
+SIRET: 01034657987432
+Numéro TVA intracommunautaire: FR40010346579
+Adresse: 57 rue de la Paix, 33133 Paris
+
+N° DEVIS: DEV-2026-4186
+Date de devis: 2025-06-27
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     23641.32 €    23641.32 €
+
+Montant HT :       23641.32 €
+TVA 20.0% :       4728.26 €
+Montant TTC :      28369.58 €
+
+Bon pour accord : ____________________

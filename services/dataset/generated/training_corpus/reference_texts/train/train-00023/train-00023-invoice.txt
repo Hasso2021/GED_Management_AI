@@ -1,0 +1,22 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE KANI KELI
+SIRET: 02404912400095
+TVA: FR45024049124
+Client: DEXIS
+SIRET client: 01675055600041
+Numero facture: FAC-202510-0023
+Date emission: 2025-10-21
+Date echeance: 2025-11-20
+IBAN: FR7668647294002989510109159
+BIC: JUEYXPDQ
+Montant HT: 4461.74 EUR
+Montant TVA: 892.35 EUR
+Montant TTC: 5354.09 EUR
+
+Lignes:
+- Redefine Cross-Media Bandwidth | qty=2 | pu=251.42 | total=502.84
+- Architect Strategic Platforms | qty=5 | pu=791.78 | total=3958.90
+
+Notes:
+- Identifiant fournisseur potentiellement falsifie.

@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: TECHNO ACME SARL
+SIRET: 01757198845145
+Numéro TVA intracommunautaire: FR65017571988
+Adresse: 85 rue de la Paix, 99268 Paris
+
+N° DEVIS: DEV-2026-0264
+Date de devis: 2025-07-07
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     34310.59 €    34310.59 €
+
+Montant HT :       34310.59 €
+TVA 10.0% :       3431.06 €
+Montant TTC :      37741.65 €
+
+Bon pour accord : ____________________

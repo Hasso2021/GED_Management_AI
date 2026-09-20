@@ -1,0 +1,24 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DIR REG ALSACE FR.COMTE DIST. BESANCON
+SIRET: 01625002900572
+TVA: FR33016250029
+Client: I.E.S.B.G.M
+SIRET client: 02407914700039
+Numero facture: FAC-202601-0017
+Date emission: 2026-01-13
+Date echeance: 2026-02-12
+IBAN: FR7604920713933683479519152
+BIC: OWERYHIJ
+Montant HT: 16184.90 EUR
+Montant TVA: 3236.98 EUR
+Montant TTC: 19571.87 EUR
+
+Lignes:
+- Matrix Global Partnerships | qty=3 | pu=1089.14 | total=3267.42
+- Syndicate E-Business Architectures | qty=4 | pu=1493.13 | total=5972.52
+- Implement Proactive E-Markets | qty=2 | pu=1092.02 | total=2184.04
+- Syndicate Granular Channels | qty=4 | pu=1190.23 | total=4760.92
+
+Notes:
+- Montant TTC incoherent avec le detail des lignes.

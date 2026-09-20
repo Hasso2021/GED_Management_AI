@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: INNOV SOLUTIONS SA
+SIRET: 09574049639227
+Numéro TVA intracommunautaire: FR38095740496
+Adresse: 47 rue de la Paix, 69771 Paris
+
+N° FACTURE: FAC-2026-2106
+Date de facture: 2026-03-05
+Date d'échéance: 2026-05-04
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     19058.90 €    19058.90 €
+
+Montant HT :       19058.90 €
+TVA 20.0% :       3811.78 €
+Montant TTC :      22870.68 €
+
+Règlement par virement bancaire à réception de facture.

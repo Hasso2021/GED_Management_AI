@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: GROUPE SOLUTIONS SA
+SIRET: 01963907588931
+Numéro TVA intracommunautaire: FR19019639075
+Adresse: 81 rue de la Paix, 37946 Paris
+
+N° FACTURE: FAC-2026-2599
+Date de facture: 2025-09-21
+Date d'échéance: 2025-10-21
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     40428.05 €    40428.05 €
+
+Montant HT :       40428.05 €
+TVA 10.0% :       4042.80 €
+Montant TTC :      44470.85 €
+
+Règlement par virement bancaire à réception de facture.

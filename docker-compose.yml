@@ -1,0 +1,49 @@
+services:
+  demo-api:
+    build:
+      context: ./services/demo-api
+    container_name: ged-demo-api
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      DATA_DIR: /app/data
+      LOG_LEVEL: INFO
+      CORS_ORIGIN: "*"
+      MODEL_PATH: /app/models/classifier.joblib
+      NUXEO_URL: ${NUXEO_URL}
+      NUXEO_USERNAME: ${NUXEO_USERNAME}
+      NUXEO_PASSWORD: ${NUXEO_PASSWORD}
+      NUXEO_DOCUMENT_ID: ${NUXEO_DOCUMENT_ID}
+      NUXEO_TIMEOUT_SECONDS: ${NUXEO_TIMEOUT_SECONDS:-15}
+    volumes:
+      - demo_data:/app/data
+      - ./services/demo-api/models:/app/models
+      - ./services/demo-api/app:/app/app
+    ports:
+      - "8000:8000"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:8000/health || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 45s
+
+  frontend:
+    build:
+      context: ./services/frontend
+    container_name: ged-frontend
+    restart: unless-stopped
+    ports:
+      - "5173:80"
+    depends_on:
+      demo-api:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://127.0.0.1/ || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  demo_data:

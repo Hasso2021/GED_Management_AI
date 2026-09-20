@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: CONSULTING TECHNO SARL
+SIRET: 09206347388831
+Numéro TVA intracommunautaire: FR03092063473
+Adresse: 55 rue de la Paix, 95828 Paris
+
+N° FACTURE: FAC-2026-3163
+Date de facture: 2025-08-22
+Date d'échéance: 2025-10-21
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     13150.04 €    13150.04 €
+
+Montant HT :       13150.04 €
+TVA 5.5% :       723.25 €
+Montant TTC :      13873.29 €
+
+Règlement par virement bancaire à réception de facture.

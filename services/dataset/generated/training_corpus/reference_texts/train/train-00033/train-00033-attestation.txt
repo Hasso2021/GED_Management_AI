@@ -1,0 +1,13 @@
+ATTESTATION DE VIGILANCE
+
+Fournisseur: TRANSPORTS MORAND
+SIRET: 02404345700027
+TVA: FR19024043457
+Client: MAYOTTE PIECES AUTO
+SIRET client: 02406911400023
+Reference attestation: ATTEST-202601-0033
+Date emission: 2026-01-29
+Date expiration: 2026-05-29
+
+Notes:
+- Document de conformite pour verification fournisseur.

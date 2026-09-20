@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: ACME ACME SA
+SIRET: 05494691936637
+Numéro TVA intracommunautaire: FR36054946919
+Adresse: 4 rue de la Paix, 64474 Paris
+
+N° DEVIS: DEV-2026-0375
+Date de devis: 2025-08-06
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     18883.77 €    18883.77 €
+
+Montant HT :       18883.77 €
+TVA 10.0% :       1888.38 €
+Montant TTC :      20772.15 €
+
+Bon pour accord : ____________________

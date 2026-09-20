@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: INNOV INNOV SARL
+SIRET: 05905213815629
+Numéro TVA intracommunautaire: FR88059052138
+Adresse: 13 rue de la Paix, 53153 Paris
+
+N° DEVIS: DEV-2026-8301
+Date de devis: 2025-03-27
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     29896.05 €    29896.05 €
+
+Montant HT :       29896.05 €
+TVA 10.0% :       2989.61 €
+Montant TTC :      32885.66 €
+
+Bon pour accord : ____________________

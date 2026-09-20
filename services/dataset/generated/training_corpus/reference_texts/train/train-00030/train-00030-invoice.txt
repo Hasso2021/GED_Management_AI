@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: SFR
+SIRET: 02407217500029
+TVA: FR37024072175
+Client: COOL VOYAGES
+SIRET client: 02406785200012
+Numero facture: FAC-202511-0030
+Date emission: 2025-11-10
+Date echeance: 2025-12-10
+IBAN: FR7636208183950488803782517
+BIC: NKKOHGPT
+Montant HT: 7329.02 EUR
+Montant TVA: 1465.80 EUR
+Montant TTC: 8794.82 EUR
+
+Lignes:
+- Innovate Distributed Partnerships | qty=1 | pu=177.86 | total=177.86
+- Iterate Viral Channels | qty=4 | pu=1365.63 | total=5462.52
+- Redefine Proactive Supply-Chains | qty=2 | pu=844.32 | total=1688.64
+
+Notes:
+- Attestation hors validite.

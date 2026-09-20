@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DJAMBO MACONNERIE
+SIRET: 02405742400038
+TVA: FR16024057424
+Client: CTIM CROIX DE MARBRE
+SIRET client: 01978753000013
+Numero facture: FAC-202602-0057
+Date emission: 2026-02-11
+Date echeance: 2026-03-13
+IBAN: FR7609279986267657506054555
+BIC: ZTNPCLGQ
+Montant HT: 7657.74 EUR
+Montant TVA: 1531.55 EUR
+Montant TTC: 9189.29 EUR
+
+Lignes:
+- Re-Contextualize Intuitive Partnerships | qty=2 | pu=834.64 | total=1669.28
+- Brand Visionary Bandwidth | qty=5 | pu=863.85 | total=4319.25
+- Seize Holistic E-Business | qty=2 | pu=475.82 | total=951.64
+- Drive Strategic Portals | qty=3 | pu=239.19 | total=717.57

@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: BOULANGERIE BARAKA M'FILAOUNI
+SIRET: 02404494300025
+TVA: FR15024044943
+Client: MPPI
+SIRET client: 01585179301105
+Numero facture: FAC-202601-0035
+Date emission: 2026-01-13
+Date echeance: 2026-02-12
+IBAN: FR7666132870081783757374104
+BIC: DQKVLAFL
+Montant HT: 5277.70 EUR
+Montant TVA: 1055.54 EUR
+Montant TTC: 6333.24 EUR
+
+Lignes:
+- Maximize Bleeding-Edge Eyeballs | qty=4 | pu=948.95 | total=3795.80
+- Matrix 24/365 Architectures | qty=5 | pu=210.70 | total=1053.50
+- Synergize Killer Mindshare | qty=2 | pu=214.20 | total=428.40

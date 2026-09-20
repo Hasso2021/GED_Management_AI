@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DISTRICT DE LEVET
+SIRET: 01625002900796
+TVA: FR33016250029
+Client: DORAS
+SIRET client: 01585179301048
+Numero facture: FAC-202511-0013
+Date emission: 2025-11-24
+Date echeance: 2025-12-24
+IBAN: FR7681624396188997083907860
+BIC: KDZISGPY
+Montant HT: 8175.80 EUR
+Montant TVA: 1635.16 EUR
+Montant TTC: 9810.96 EUR
+
+Lignes:
+- Transition Dot-Com Platforms | qty=5 | pu=234.99 | total=1174.95
+- Integrate Bricks-And-Clicks Supply-Chains | qty=4 | pu=402.81 | total=1611.24
+- Extend Extensible Schemas | qty=5 | pu=994.55 | total=4972.75
+- Empower B2C Methodologies | qty=1 | pu=416.86 | total=416.86

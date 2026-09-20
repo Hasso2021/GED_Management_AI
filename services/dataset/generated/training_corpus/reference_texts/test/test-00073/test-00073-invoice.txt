@@ -1,0 +1,22 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE MTSAHARA
+SIRET: 02404912400431
+TVA: FR45024049124
+Client: KOTRI
+SIRET client: 02405831500029
+Numero facture: FAC-202508-0073
+Date emission: 2025-08-04
+IBAN: FR7663429190591686363233018
+BIC: COYTSBMA
+Montant HT: 4291.68 EUR
+Montant TVA: 858.34 EUR
+Montant TTC: 5150.02 EUR
+
+Lignes:
+- Engineer Leading-Edge Technologies | qty=1 | pu=1402.52 | total=1402.52
+- Incubate Back-End Functionalities | qty=2 | pu=409.34 | total=818.68
+- Extend Wireless Content | qty=3 | pu=690.16 | total=2070.48
+
+Notes:
+- La date d'echeance est absente du document.

@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: AMENAGEMENTS SUPPER LUX (A.S.L)
+SIRET: 02408267900010
+TVA: FR24024082679
+Client: SANDANI RAMLATI
+SIRET client: 02408407100034
+Numero facture: FAC-202511-0069
+Date emission: 2025-11-11
+Date echeance: 2025-12-11
+IBAN: FR7677446205288592019904744
+BIC: EFLXFCWZ
+Montant HT: 13149.61 EUR
+Montant TVA: 2629.92 EUR
+Montant TTC: 15779.53 EUR
+
+Lignes:
+- Re-Contextualize One-To-One Info-Mediaries | qty=2 | pu=1398.87 | total=2797.74
+- Reinvent Robust Experiences | qty=2 | pu=1238.34 | total=2476.68
+- Repurpose Open-Source Users | qty=4 | pu=783.56 | total=3134.24
+- Engineer Synergistic Partnerships | qty=5 | pu=948.19 | total=4740.95

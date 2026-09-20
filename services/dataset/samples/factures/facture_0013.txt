@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: CONSULTING GROUPE SASU
+SIRET: 05348012884167
+Numéro TVA intracommunautaire: FR68053480128
+Adresse: 31 rue de la Paix, 89457 Paris
+
+N° FACTURE: FAC-2026-6591
+Date de facture: 2025-09-12
+Date d'échéance: 2025-10-12
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     21383.86 €    21383.86 €
+
+Montant HT :       21383.86 €
+TVA 5.5% :       1176.11 €
+Montant TTC :      22559.97 €
+
+Règlement par virement bancaire à réception de facture.

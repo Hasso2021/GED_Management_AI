@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: AMENAGEMENTS SUPPER LUX (A.S.L)
+SIRET: 02408267900010
+TVA: FR24024082679
+Client: DAILAMI ET FILS
+SIRET client: 02405358900016
+Numero facture: FAC-202511-0045
+Date emission: 2025-11-17
+Date echeance: 2025-12-17
+IBAN: FR7608560684756610142880845
+BIC: MDYHPTOJ
+Montant HT: 15718.36 EUR
+Montant TVA: 3143.67 EUR
+Montant TTC: 18862.03 EUR
+
+Lignes:
+- Deliver Visionary Users | qty=4 | pu=1254.88 | total=5019.52
+- Deliver Out-Of-The-Box Relationships | qty=4 | pu=1363.66 | total=5454.64
+- Syndicate Cross-Media Applications | qty=5 | pu=1048.84 | total=5244.20

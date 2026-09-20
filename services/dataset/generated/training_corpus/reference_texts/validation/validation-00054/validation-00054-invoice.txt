@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: MAYOTTE ULM
+SIRET: 02407554100011
+TVA: FR47024075541
+Client: DOLMEN NANTES
+SIRET client: 00708077300158
+Numero facture: FAC-202603-0054
+Date emission: 2026-03-13
+IBAN: FR7658022998856289898778680
+BIC: ZEEFCDXW
+Montant HT: 9702.61 EUR
+Montant TVA: 1940.52 EUR
+Montant TTC: 11643.13 EUR
+
+Lignes:
+- Embrace Virtual Applications | qty=5 | pu=637.33 | total=3186.65
+- Re-Intermediate E-Business Channels | qty=4 | pu=1092.90 | total=4371.60
+- Brand Wireless E-Markets | qty=1 | pu=984.80 | total=984.80
+- Seize Scalable Schemas | qty=3 | pu=386.52 | total=1159.56
+
+Notes:
+- La date d'echeance est absente du document.

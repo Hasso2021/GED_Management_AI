@@ -1,0 +1,21 @@
+DEVIS
+
+Fournisseur: COOL VOYAGES
+SIRET: 02406785200012
+TVA: FR66024067852
+Client: DISTRICT DE DOLE
+SIRET client: 01625002900622
+Numero devis: DEV-202512-0065
+Date emission: 2025-12-10
+Date echeance: 2026-01-09
+Montant HT: 3144.53 EUR
+Montant TVA: 628.90 EUR
+Montant TTC: 3773.43 EUR
+
+Lignes:
+- Maximize Frictionless Initiatives | qty=2 | pu=706.11 | total=1412.22
+- Revolutionize User-Centric Content | qty=4 | pu=478.91 | total=1915.64
+
+Notes:
+- Devis commercial lie a la facture.
+- Le devis et la facture n'ont pas le meme montant.

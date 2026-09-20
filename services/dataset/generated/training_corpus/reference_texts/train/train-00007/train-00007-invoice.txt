@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: AUDIT GESTION CONSEIL
+SIRET: 01735137000113
+TVA: FR42017351370
+Client: EPICERIE NAFASSI
+SIRET client: 02406496600021
+Numero facture: FAC-202601-0007
+Date emission: 2026-01-16
+Date echeance: 2026-02-15
+IBAN: FR7664938780352474319220440
+BIC: HAZXDJDU
+Montant HT: 7225.78 EUR
+Montant TVA: 1445.16 EUR
+Montant TTC: 8670.94 EUR
+
+Lignes:
+- Optimize Scalable Deliverables | qty=1 | pu=670.16 | total=670.16
+- Scale Cross-Media E-Tailers | qty=5 | pu=883.90 | total=4419.50
+- Incubate Best-Of-Breed Schemas | qty=2 | pu=1068.06 | total=2136.12

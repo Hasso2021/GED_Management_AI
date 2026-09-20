@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: SOLUTIONS GROUPE SA
+SIRET: 05223179365237
+Numéro TVA intracommunautaire: FR39052231793
+Adresse: 78 rue de la Paix, 27866 Paris
+
+N° DEVIS: DEV-2026-8738
+Date de devis: 2025-05-24
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     19596.77 €    19596.77 €
+
+Montant HT :       19596.77 €
+TVA 10.0% :       1959.68 €
+Montant TTC :      21556.45 €
+
+Bon pour accord : ____________________

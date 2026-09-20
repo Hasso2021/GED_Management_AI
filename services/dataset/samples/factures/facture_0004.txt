@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: DIGITAL SERVICES SAS
+SIRET: 09904278764224
+Numéro TVA intracommunautaire: FR10099042787
+Adresse: 23 rue de la Paix, 96626 Paris
+
+N° FACTURE: FAC-2026-5339
+Date de facture: 2026-01-15
+Date d'échéance: 2026-03-16
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     12904.56 €    12904.56 €
+
+Montant HT :       12904.56 €
+TVA 20.0% :       2580.91 €
+Montant TTC :      15485.47 €
+
+Règlement par virement bancaire à réception de facture.

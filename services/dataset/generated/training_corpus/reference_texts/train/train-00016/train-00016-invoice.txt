@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: LE CINTRA - L'ADAGIO
+SIRET: 01555034600017
+TVA: FR64015550346
+Client: ESPACE AUTO PRESQU'ILE
+SIRET client: 00718053200041
+Numero facture: FAC-202510-0016
+Date emission: 2025-10-04
+Date echeance: 2025-11-03
+IBAN: FR7610073093782287378692906
+BIC: UGLTNJFL
+Montant HT: 14864.81 EUR
+Montant TVA: 2972.96 EUR
+Montant TTC: 17837.77 EUR
+
+Lignes:
+- Benchmark Virtual Action-Items | qty=5 | pu=1322.47 | total=6612.35
+- Strategize Interactive Users | qty=4 | pu=1473.93 | total=5895.72
+- Implement Sticky Partnerships | qty=5 | pu=222.44 | total=1112.20
+- Enable Viral Action-Items | qty=2 | pu=622.27 | total=1244.54

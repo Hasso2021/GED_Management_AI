@@ -1,0 +1,22 @@
+DEVIS
+
+Fournisseur: OUZOURI ET LOCATION
+SIRET: 02406628400019
+TVA: FR18024066284
+Client: DORAS
+SIRET client: 01585179301030
+Numero devis: DEV-202510-0028
+Date emission: 2025-09-25
+Date echeance: 2025-10-25
+Montant HT: 12687.45 EUR
+Montant TVA: 2537.49 EUR
+Montant TTC: 15224.94 EUR
+
+Lignes:
+- Leverage Value-Added Niches | qty=3 | pu=907.50 | total=2722.50
+- Matrix Front-End Synergies | qty=4 | pu=1459.31 | total=5837.24
+- Enhance Proactive Platforms | qty=4 | pu=1077.76 | total=4311.04
+
+Notes:
+- Devis commercial lie a la facture.
+- Le devis et la facture n'ont pas le meme montant.

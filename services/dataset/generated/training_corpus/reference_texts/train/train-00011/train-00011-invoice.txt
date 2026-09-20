@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: CLAUDE MATERIAUX
+SIRET: 01585179300958
+TVA: FR74015851793
+Client: TSARA
+SIRET client: 02408209100018
+Numero facture: FAC-202511-0011
+Date emission: 2025-11-18
+Date echeance: 2025-12-18
+IBAN: FR7634316314079265184885924
+BIC: IXLMQJAT
+Montant HT: 9645.80 EUR
+Montant TVA: 1929.16 EUR
+Montant TTC: 11574.96 EUR
+
+Lignes:
+- Revolutionize Bricks-And-Clicks Bandwidth | qty=1 | pu=1421.01 | total=1421.01
+- Monetize Cross-Media Architectures | qty=4 | pu=551.88 | total=2207.52
+- Implement Strategic Metrics | qty=5 | pu=845.31 | total=4226.55
+- Mesh Global Synergies | qty=2 | pu=895.36 | total=1790.72

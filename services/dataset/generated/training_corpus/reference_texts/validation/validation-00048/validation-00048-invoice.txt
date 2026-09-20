@@ -1,0 +1,24 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: JADESSIANE
+SIRET: 02405385200026
+TVA: FR67024053852
+Client: ENTREPRISE MOHAMED
+SIRET client: 02407532700015
+Numero facture: FAC-202512-0048
+Date emission: 2025-12-04
+Date echeance: 2026-01-03
+IBAN: FR7628207266562310567322287
+BIC: SFGJOBZY
+Montant HT: 6678.82 EUR
+Montant TVA: 1335.76 EUR
+Montant TTC: 8164.57 EUR
+
+Lignes:
+- Visualize Transparent Synergies | qty=3 | pu=1373.39 | total=4120.17
+- Expedite Compelling E-Markets | qty=2 | pu=88.28 | total=176.56
+- Leverage Rich Paradigms | qty=4 | pu=472.18 | total=1888.72
+- Brand Front-End Bandwidth | qty=1 | pu=493.37 | total=493.37
+
+Notes:
+- Montant TTC incoherent avec le detail des lignes.

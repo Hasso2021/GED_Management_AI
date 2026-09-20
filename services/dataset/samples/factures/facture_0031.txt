@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: SERVICES TECHNO SASU
+SIRET: 04837027369439
+Numéro TVA intracommunautaire: FR92048370273
+Adresse: 37 rue de la Paix, 56088 Paris
+
+N° FACTURE: FAC-2026-3545
+Date de facture: 2025-09-15
+Date d'échéance: 2025-10-30
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     40554.36 €    40554.36 €
+
+Montant HT :       40554.36 €
+TVA 10.0% :       4055.44 €
+Montant TTC :      44609.80 €
+
+Règlement par virement bancaire à réception de facture.

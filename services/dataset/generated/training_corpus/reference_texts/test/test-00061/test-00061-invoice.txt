@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE COMBANI
+SIRET: 02404912400076
+TVA: FR45024049124
+Client: DOUKA BE TSOUNDZOU 2
+SIRET client: 02404912400175
+Numero facture: FAC-202510-0061
+Date emission: 2025-10-07
+Date echeance: 2025-11-06
+IBAN: FR7682279581116070637509223
+BIC: WJEWPMEO
+Montant HT: 4607.15 EUR
+Montant TVA: 921.43 EUR
+Montant TTC: 5678.57 EUR
+
+Lignes:
+- Synergize Sticky Methodologies | qty=1 | pu=1003.07 | total=1003.07
+- Integrate Clicks-And-Mortar Models | qty=4 | pu=546.68 | total=2186.72
+- Aggregate Value-Added E-Business | qty=2 | pu=708.68 | total=1417.36
+
+Notes:
+- Montant TTC incoherent avec le detail des lignes.

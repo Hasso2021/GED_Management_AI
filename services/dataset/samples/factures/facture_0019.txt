@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: ACME CONSULTING SAS
+SIRET: 01014623096591
+Numéro TVA intracommunautaire: FR05010146230
+Adresse: 52 rue de la Paix, 84215 Paris
+
+N° FACTURE: FAC-2026-9571
+Date de facture: 2025-08-27
+Date d'échéance: 2025-09-26
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     22010.43 €    22010.43 €
+
+Montant HT :       22010.43 €
+TVA 5.5% :       1210.57 €
+Montant TTC :      23221.00 €
+
+Règlement par virement bancaire à réception de facture.

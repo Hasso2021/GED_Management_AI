@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: SANDAWANA
+SIRET: 02405315900034
+TVA: FR25024053159
+Client: CAP MAY
+SIRET client: 02403853100026
+Numero facture: FAC-202603-0072
+Date emission: 2026-03-06
+Date echeance: 2026-04-05
+IBAN: FR7609474408272172936710204
+BIC: RBUKPKYC
+Montant HT: 4977.95 EUR
+Montant TVA: 995.59 EUR
+Montant TTC: 5973.54 EUR
+
+Lignes:
+- Deploy Robust Architectures | qty=3 | pu=952.65 | total=2857.95
+- Re-Intermediate World-Class Architectures | qty=5 | pu=424.00 | total=2120.00

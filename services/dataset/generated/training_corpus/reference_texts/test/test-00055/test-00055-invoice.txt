@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DORAS
+SIRET: 01585179300545
+TVA: FR74015851793
+Client: EUROPCAR
+SIRET client: 02408440200015
+Numero facture: FAC-202601-0055
+Date emission: 2026-01-09
+Date echeance: 2026-02-08
+IBAN: FR7671383789840058671946090
+BIC: GGAXPOIJ
+Montant HT: 6598.38 EUR
+Montant TVA: 1319.68 EUR
+Montant TTC: 7918.06 EUR
+
+Lignes:
+- Mesh Mission-Critical Applications | qty=3 | pu=1188.24 | total=3564.72
+- Extend Value-Added Web-Readiness | qty=3 | pu=1011.22 | total=3033.66

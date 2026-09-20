@@ -1,0 +1,13 @@
+ATTESTATION DE VIGILANCE
+
+Fournisseur: SAF COIFFURE
+SIRET: 02408254700027
+TVA: FR16024082547
+Client: TRANSIT DES ILES
+SIRET client: 02404461200026
+Reference attestation: ATTEST-202511-0036
+Date emission: 2025-11-06
+Date expiration: 2026-03-06
+
+Notes:
+- Document de conformite pour verification fournisseur.

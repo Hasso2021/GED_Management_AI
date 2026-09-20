@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: ACME DIGITAL SARL
+SIRET: 04458996351561
+Numéro TVA intracommunautaire: FR14044589963
+Adresse: 54 rue de la Paix, 22965 Paris
+
+N° DEVIS: DEV-2026-1539
+Date de devis: 2025-04-29
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     46286.08 €    46286.08 €
+
+Montant HT :       46286.08 €
+TVA 20.0% :       9257.22 €
+Montant TTC :      55543.30 €
+
+Bon pour accord : ____________________

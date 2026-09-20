@@ -1,0 +1,9 @@
+RIB — Hello bank
+
+Titulaire : M. Sacha PERRIN
+Compte : compte courant particulier
+Domiciliation : Agence Centre
+IBAN FR76 8672 4195 7216 4965 5343 479
+BIC BNPAFRPP
+
+Relevé d'identité bancaire à transmettre pour un virement.

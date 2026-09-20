@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: ACME TECHNO SASU
+SIRET: 01492968046944
+Numéro TVA intracommunautaire: FR78014929680
+Adresse: 87 rue de la Paix, 18760 Paris
+
+N° DEVIS: DEV-2026-2374
+Date de devis: 2025-07-22
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     37876.19 €    37876.19 €
+
+Montant HT :       37876.19 €
+TVA 5.5% :       2083.19 €
+Montant TTC :      39959.38 €
+
+Bon pour accord : ____________________

@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: SAIFA
+SIRET: 02404792000020
+TVA: FR22024047920
+Client: MISTRA CONSTRUCTION
+SIRET client: 02404003200021
+Numero facture: FAC-202602-0012
+Date emission: 2026-02-06
+Date echeance: 2026-03-08
+IBAN: FR7644667361733725960976270
+BIC: NJODVVYW
+Montant HT: 15897.20 EUR
+Montant TVA: 3179.44 EUR
+Montant TTC: 19076.64 EUR
+
+Lignes:
+- Embrace B2C Solutions | qty=5 | pu=605.04 | total=3025.20
+- Synergize User-Centric Platforms | qty=4 | pu=1199.13 | total=4796.52
+- Seize Cross-Media E-Services | qty=5 | pu=1070.56 | total=5352.80
+- Drive Leading-Edge E-Business | qty=3 | pu=907.56 | total=2722.68

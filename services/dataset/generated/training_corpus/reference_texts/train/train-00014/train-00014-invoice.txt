@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DEMENAGEMENTS D. FRANTZ
+SIRET: 01565100300046
+TVA: FR74015651003
+Client: DOUKA BE CAVANI
+SIRET client: 02404912400373
+Numero facture: FAC-202508-0014
+Date emission: 2025-08-25
+Date echeance: 2025-09-24
+IBAN: FR7629912998881266650878991
+BIC: SXVAAYKM
+Montant HT: 8414.08 EUR
+Montant TVA: 1682.82 EUR
+Montant TTC: 10096.90 EUR
+
+Lignes:
+- Harness User-Centric Web-Readiness | qty=1 | pu=615.21 | total=615.21
+- Evolve Vertical Paradigms | qty=1 | pu=1149.17 | total=1149.17
+- Facilitate Holistic Vortals | qty=5 | pu=1329.94 | total=6649.70

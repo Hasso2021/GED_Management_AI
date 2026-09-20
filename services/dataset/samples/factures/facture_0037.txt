@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: SOLUTIONS CONSULTING SAS
+SIRET: 02760842670322
+Numéro TVA intracommunautaire: FR94027608426
+Adresse: 10 rue de la Paix, 58882 Paris
+
+N° FACTURE: FAC-2026-7745
+Date de facture: 2025-04-28
+Date d'échéance: 2025-06-12
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     32285.61 €    32285.61 €
+
+Montant HT :       32285.61 €
+TVA 10.0% :       3228.56 €
+Montant TTC :      35514.17 €
+
+Règlement par virement bancaire à réception de facture.

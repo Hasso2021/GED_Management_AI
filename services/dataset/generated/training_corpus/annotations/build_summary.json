@@ -1,0 +1,9 @@
+{
+  "documents": 101,
+  "cases": 74,
+  "splits": {
+    "test": 20,
+    "train": 42,
+    "validation": 12
+  }
+}

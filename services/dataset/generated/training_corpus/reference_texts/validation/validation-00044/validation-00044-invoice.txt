@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: ESPACE MEUBLE
+SIRET: 02407016100021
+TVA: FR09024070161
+Client: C.E.M
+SIRET client: 02404098200027
+Numero facture: FAC-202509-0044
+Date emission: 2025-09-12
+Date echeance: 2025-10-12
+IBAN: FR7641355021936060967655088
+BIC: JVTVQQJT
+Montant HT: 5197.01 EUR
+Montant TVA: 1039.40 EUR
+Montant TTC: 6236.41 EUR
+
+Lignes:
+- Empower Efficient Convergence | qty=2 | pu=201.72 | total=403.44
+- Strategize Distributed Web-Readiness | qty=1 | pu=291.41 | total=291.41
+- Matrix Distributed Paradigms | qty=4 | pu=1125.54 | total=4502.16

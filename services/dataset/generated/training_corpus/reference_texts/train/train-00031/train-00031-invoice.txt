@@ -1,0 +1,24 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: MENUISERIE MZE FILS
+SIRET: 02405867900010
+TVA: FR95024058679
+Client: ACM
+SIRET client: 01675055600140
+Numero facture: FAC-202509-0031
+Date emission: 2025-09-28
+Date echeance: 2025-10-28
+IBAN: FR7696355203591007655510739
+BIC: OZQMPOLE
+Montant HT: 8325.52 EUR
+Montant TVA: 1665.10 EUR
+Montant TTC: 9990.62 EUR
+
+Lignes:
+- Productize Integrated E-Commerce | qty=5 | pu=956.68 | total=4783.40
+- Morph Turn-Key Roi | qty=2 | pu=111.47 | total=222.94
+- Scale Next-Generation Info-Mediaries | qty=3 | pu=852.02 | total=2556.06
+- Transform B2B Infrastructures | qty=2 | pu=381.56 | total=763.12
+
+Notes:
+- Attestation hors validite.

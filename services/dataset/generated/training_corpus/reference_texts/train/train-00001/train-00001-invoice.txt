@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: VRD SOULAIMANA FILS
+SIRET: 02405890100026
+TVA: FR82024058901
+Client: SUD MENUISERIE ET BTP
+SIRET client: 02405244100011
+Numero facture: FAC-202603-0001
+Date emission: 2026-03-15
+Date echeance: 2026-04-14
+IBAN: FR7664633188130713788573539
+BIC: WYQJQFEB
+Montant HT: 6125.89 EUR
+Montant TVA: 1225.18 EUR
+Montant TTC: 7351.07 EUR
+
+Lignes:
+- Transform Impactful Info-Mediaries | qty=4 | pu=1383.95 | total=5535.80
+- Streamline Synergistic E-Commerce | qty=1 | pu=590.09 | total=590.09

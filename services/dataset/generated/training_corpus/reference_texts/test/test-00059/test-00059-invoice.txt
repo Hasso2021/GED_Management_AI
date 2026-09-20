@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DORAS
+SIRET: 01585179300933
+TVA: FR74015851793
+Client: MARCHANDISE RAYISI
+SIRET client: 02404304400023
+Numero facture: FAC-202603-0059
+Date emission: 2026-03-01
+Date echeance: 2026-03-31
+IBAN: FR7688966795760147764583427
+BIC: UOOGZNBX
+Montant HT: 7451.42 EUR
+Montant TVA: 1490.28 EUR
+Montant TTC: 8941.70 EUR
+
+Lignes:
+- Monetize Mission-Critical E-Services | qty=1 | pu=82.06 | total=82.06
+- Exploit Compelling Convergence | qty=2 | pu=391.73 | total=783.46
+- Envisioneer Cross-Media Networks | qty=5 | pu=1317.18 | total=6585.90

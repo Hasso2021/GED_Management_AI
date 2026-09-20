@@ -1,0 +1,16 @@
+Relevé d'identité bancaire — Société Générale
+
+Titulaire du compte
+M. Nina PERRIN
+
+Coordonnées du compte
+Code banque : 75919
+Code guichet : 44709
+Numéro de compte : 00813730399
+Clé RIB : 53
+
+IBAN : FR76 7591 9447 0900 8137 3039 953
+BIC : SOGEFRPP
+Domiciliation bancaire : Agence République Marseille
+
+Document destiné à communiquer l'identité du compte à un tiers.

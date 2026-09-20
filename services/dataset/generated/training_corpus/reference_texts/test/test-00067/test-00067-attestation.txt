@@ -1,0 +1,14 @@
+ATTESTATION DE VIGILANCE
+
+Fournisseur: DOUKA BE BANDRELE
+SIRET: 02404912400100
+TVA: FR45024049124
+Client: DEMOUSELLE TERTIAIRE
+SIRET client: 00582037800239
+Reference attestation: ATTEST-202510-0067
+Date emission: 2025-10-10
+Date expiration: 2025-10-02
+
+Notes:
+- Document de conformite pour verification fournisseur.
+- Attestation hors validite.

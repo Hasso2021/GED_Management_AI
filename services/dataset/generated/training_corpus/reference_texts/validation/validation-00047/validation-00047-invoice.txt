@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: INVEST CONSULTING MAYOTTE REUNION (ICMR)
+SIRET: 02403727700035
+TVA: FR06024037277
+Client: EIFFAGE CONSTRUCTION SAONE ET LOIRE
+SIRET client: 01545141200074
+Numero facture: FAC-202508-0047
+Date emission: 2025-08-22
+Date echeance: 2025-09-21
+IBAN: FR7667794558170706512132228
+BIC: KNYHMZXM
+Montant HT: 7696.15 EUR
+Montant TVA: 1539.23 EUR
+Montant TTC: 9235.38 EUR
+
+Lignes:
+- Productize Collaborative E-Tailers | qty=5 | pu=1328.91 | total=6644.55
+- Aggregate Holistic Channels | qty=2 | pu=525.80 | total=1051.60

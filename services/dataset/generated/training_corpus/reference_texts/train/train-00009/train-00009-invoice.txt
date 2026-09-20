@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE DE TSARARANO
+SIRET: 02404912400266
+TVA: FR45024049124
+Client: KALO
+SIRET client: 02405535200033
+Numero facture: FAC-202512-0009
+Date emission: 2025-12-26
+Date echeance: 2026-01-25
+IBAN: FR7636027866793236693846189
+BIC: XUFLVOZL
+Montant HT: 4817.69 EUR
+Montant TVA: 963.54 EUR
+Montant TTC: 5781.23 EUR
+
+Lignes:
+- Leverage Web-Enabled Models | qty=5 | pu=857.07 | total=4285.35
+- Morph Vertical Action-Items | qty=2 | pu=266.17 | total=532.34

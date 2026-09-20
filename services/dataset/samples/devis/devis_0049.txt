@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: TECHNO TECHNO SA
+SIRET: 07135356248226
+Numéro TVA intracommunautaire: FR31071353562
+Adresse: 38 rue de la Paix, 41273 Paris
+
+N° DEVIS: DEV-2026-7161
+Date de devis: 2025-03-25
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     28126.80 €    28126.80 €
+
+Montant HT :       28126.80 €
+TVA 10.0% :       2812.68 €
+Montant TTC :      30939.48 €
+
+Bon pour accord : ____________________

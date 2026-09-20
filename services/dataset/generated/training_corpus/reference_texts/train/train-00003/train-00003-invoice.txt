@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: MAGASIN DES ILES
+SIRET: 02404569200035
+TVA: FR31024045692
+Client: DORAS
+SIRET client: 01585179300453
+Numero facture: FAC-202510-0003
+Date emission: 2025-10-15
+Date echeance: 2025-11-14
+IBAN: FR7693549574560198208123661
+BIC: LLXHXBTK
+Montant HT: 3109.24 EUR
+Montant TVA: 621.85 EUR
+Montant TTC: 3731.09 EUR
+
+Lignes:
+- Syndicate Open-Source Systems | qty=2 | pu=607.79 | total=1215.58
+- Enhance Cross-Media Action-Items | qty=3 | pu=631.22 | total=1893.66

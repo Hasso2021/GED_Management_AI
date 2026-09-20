@@ -1,0 +1,18 @@
+Caisse d'Épargne
+
+Objet : communication des coordonnées bancaires
+
+Bonjour,
+
+Veuillez trouver ci-dessous le relevé d'identité bancaire du compte
+ouvert dans nos livres au nom de M. Clara MARCHAND.
+
+Titulaire du compte : M. Clara MARCHAND
+Domiciliation : Caisse d'Épargne Marseille
+IBAN : FR76 4772 3539 9108 9707 5108 760
+BIC : CEPAFRPP
+
+Ces informations suffisent pour créditer le compte par virement.
+Conservez ce relevé ; il ne contient pas de numéro de carte.
+
+Service clientèle — Caisse d'Épargne

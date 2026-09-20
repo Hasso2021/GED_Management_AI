@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: TECHNO GROUPE SASU
+SIRET: 09766698939649
+Numéro TVA intracommunautaire: FR63097666989
+Adresse: 38 rue de la Paix, 39123 Paris
+
+N° FACTURE: FAC-2026-2627
+Date de facture: 2025-06-16
+Date d'échéance: 2025-08-15
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     34500.33 €    34500.33 €
+
+Montant HT :       34500.33 €
+TVA 5.5% :       1897.52 €
+Montant TTC :      36397.85 €
+
+Règlement par virement bancaire à réception de facture.

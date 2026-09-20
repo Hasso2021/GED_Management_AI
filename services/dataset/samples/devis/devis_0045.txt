@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: CONSULTING GROUPE SARL
+SIRET: 03064259311457
+Numéro TVA intracommunautaire: FR18030642593
+Adresse: 61 rue de la Paix, 49547 Paris
+
+N° DEVIS: DEV-2026-6605
+Date de devis: 2025-08-28
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     6677.29 €    6677.29 €
+
+Montant HT :       6677.29 €
+TVA 10.0% :       667.73 €
+Montant TTC :      7345.02 €
+
+Bon pour accord : ____________________

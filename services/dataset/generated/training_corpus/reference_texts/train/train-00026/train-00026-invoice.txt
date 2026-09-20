@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: GAZONS MAYOTTE SERVICES VERTS
+SIRET: 02403807700020
+TVA: FR78024038077
+Client: CARONI TRANSPORT
+SIRET client: 02405894300036
+Numero facture: FAC-202512-0026
+Date emission: 2025-12-23
+Date echeance: 2026-01-22
+IBAN: FR7666679165088617703810960
+BIC: SKQYSVTX
+Montant HT: 6902.93 EUR
+Montant TVA: 1380.59 EUR
+Montant TTC: 8283.52 EUR
+
+Lignes:
+- Morph Interactive Deliverables | qty=2 | pu=494.44 | total=988.88
+- Synthesize Leading-Edge Solutions | qty=3 | pu=1126.59 | total=3379.77
+- Drive World-Class Eyeballs | qty=4 | pu=633.57 | total=2534.28
+
+Notes:
+- Le devis et la facture n'ont pas le meme montant.

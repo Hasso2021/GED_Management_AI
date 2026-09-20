@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: DIGITAL CONSULTING SASU
+SIRET: 09094327889147
+Numéro TVA intracommunautaire: FR80090943278
+Adresse: 78 rue de la Paix, 39284 Paris
+
+N° DEVIS: DEV-2026-6534
+Date de devis: 2026-02-03
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     27026.68 €    27026.68 €
+
+Montant HT :       27026.68 €
+TVA 5.5% :       1486.47 €
+Montant TTC :      28513.15 €
+
+Bon pour accord : ____________________

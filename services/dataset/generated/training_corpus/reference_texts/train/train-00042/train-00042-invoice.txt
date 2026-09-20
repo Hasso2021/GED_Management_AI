@@ -1,0 +1,22 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: COOPERATIVE MARITIME
+SIRET: 00708001300027
+TVA: FR58007080013
+Client: MULTIGRAPHIC
+SIRET client: 00678051400094
+Numero facture: FAC-202510-0042
+Date emission: 2025-10-04
+IBAN: FR7634154798053598078633405
+BIC: OAWYXKKJ
+Montant HT: 14253.03 EUR
+Montant TVA: 2850.61 EUR
+Montant TTC: 17103.64 EUR
+
+Lignes:
+- Optimize Cutting-Edge E-Services | qty=5 | pu=1498.07 | total=7490.35
+- Digitaliser Strategic Technologies | qty=4 | pu=1409.32 | total=5637.28
+- Streamline Plug-And-Play E-Business | qty=4 | pu=281.35 | total=1125.40
+
+Notes:
+- La date d'echeance est absente du document.

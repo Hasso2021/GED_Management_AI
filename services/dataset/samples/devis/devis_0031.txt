@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: TECHNO SERVICES SA
+SIRET: 01987983664563
+Numéro TVA intracommunautaire: FR40019879836
+Adresse: 5 rue de la Paix, 68690 Paris
+
+N° DEVIS: DEV-2026-2894
+Date de devis: 2026-01-31
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     21095.69 €    21095.69 €
+
+Montant HT :       21095.69 €
+TVA 20.0% :       4219.14 €
+Montant TTC :      25314.83 €
+
+Bon pour accord : ____________________

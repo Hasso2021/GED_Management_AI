@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: ACME INNOV SARL
+SIRET: 07865272455980
+Numéro TVA intracommunautaire: FR58078652724
+Adresse: 73 rue de la Paix, 82033 Paris
+
+N° DEVIS: DEV-2026-7377
+Date de devis: 2025-10-21
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     9645.33 €    9645.33 €
+
+Montant HT :       9645.33 €
+TVA 20.0% :       1929.07 €
+Montant TTC :      11574.40 €
+
+Bon pour accord : ____________________

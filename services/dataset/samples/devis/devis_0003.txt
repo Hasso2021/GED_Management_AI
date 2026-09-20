@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: SERVICES GROUPE SASU
+SIRET: 05264073318666
+Numéro TVA intracommunautaire: FR03052640733
+Adresse: 49 rue de la Paix, 92438 Paris
+
+N° DEVIS: DEV-2026-2167
+Date de devis: 2025-09-20
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     16263.35 €    16263.35 €
+
+Montant HT :       16263.35 €
+TVA 5.5% :       894.48 €
+Montant TTC :      17157.83 €
+
+Bon pour accord : ____________________

@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: TECHNO TECHNO SARL
+SIRET: 08714396132886
+Numéro TVA intracommunautaire: FR17087143961
+Adresse: 74 rue de la Paix, 49471 Paris
+
+N° FACTURE: FAC-2026-4043
+Date de facture: 2025-05-13
+Date d'échéance: 2025-07-12
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     47876.78 €    47876.78 €
+
+Montant HT :       47876.78 €
+TVA 5.5% :       2633.22 €
+Montant TTC :      50510.00 €
+
+Règlement par virement bancaire à réception de facture.

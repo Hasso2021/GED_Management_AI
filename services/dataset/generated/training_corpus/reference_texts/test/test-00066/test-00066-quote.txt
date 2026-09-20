@@ -1,0 +1,22 @@
+DEVIS
+
+Fournisseur: LOULOU BEAUTE
+SIRET: 02406830600018
+TVA: FR70024068306
+Client: FOTOKABINE MAYOTTE
+SIRET client: 02406528600056
+Numero devis: DEV-202507-0066
+Date emission: 2025-07-24
+Date echeance: 2025-08-23
+Montant HT: 8896.08 EUR
+Montant TVA: 1779.21 EUR
+Montant TTC: 10675.29 EUR
+
+Lignes:
+- Revolutionize Seamless Applications | qty=3 | pu=1145.95 | total=3437.85
+- Orchestrate Clicks-And-Mortar Systems | qty=4 | pu=690.17 | total=2760.68
+- Transform Magnetic Metrics | qty=4 | pu=720.22 | total=2880.88
+
+Notes:
+- Devis commercial lie a la facture.
+- Le devis et la facture n'ont pas le meme montant.

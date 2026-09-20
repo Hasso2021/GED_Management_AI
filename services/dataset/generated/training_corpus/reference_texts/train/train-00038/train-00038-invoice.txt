@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: MPPI
+SIRET: 01585179301113
+TVA: FR74015851793
+Client: VRD SOULAIMANA FILS
+SIRET client: 02405890100026
+Numero facture: FAC-202601-0038
+Date emission: 2026-01-26
+Date echeance: 2026-02-25
+IBAN: FR7658917995647275541290366
+BIC: HBEDURZS
+Montant HT: 12794.99 EUR
+Montant TVA: 2559.00 EUR
+Montant TTC: 15353.99 EUR
+
+Lignes:
+- Productize Proactive E-Commerce | qty=5 | pu=516.00 | total=2580.00
+- Grow Synergistic Partnerships | qty=3 | pu=982.59 | total=2947.77
+- Orchestrate Seamless Markets | qty=4 | pu=344.58 | total=1378.32
+- Strategize Collaborative Platforms | qty=5 | pu=1177.78 | total=5888.90

@@ -1,0 +1,18 @@
+CIC
+
+Objet : communication des coordonnées bancaires
+
+Bonjour,
+
+Veuillez trouver ci-dessous le relevé d'identité bancaire du compte
+ouvert dans nos livres au nom de Mme Aaron SANCHEZ.
+
+Titulaire du compte : Mme Aaron SANCHEZ
+Domiciliation : CIC Lyon
+IBAN : FR76 5874 7795 6159 5951 0330 992
+BIC : CMCIFRPA
+
+Ces informations suffisent pour créditer le compte par virement.
+Conservez ce relevé ; il ne contient pas de numéro de carte.
+
+Service clientèle — CIC

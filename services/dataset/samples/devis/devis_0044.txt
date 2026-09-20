@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: DIGITAL SERVICES SARL
+SIRET: 06926647424233
+Numéro TVA intracommunautaire: FR20069266474
+Adresse: 40 rue de la Paix, 25763 Paris
+
+N° DEVIS: DEV-2026-1484
+Date de devis: 2025-06-10
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     8311.74 €    8311.74 €
+
+Montant HT :       8311.74 €
+TVA 5.5% :       457.15 €
+Montant TTC :      8768.89 €
+
+Bon pour accord : ____________________

@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DORAS
+SIRET: 01585179300180
+TVA: FR74015851793
+Client: FLEUR D'OR
+SIRET client: 02404946200021
+Numero facture: FAC-202508-0052
+Date emission: 2025-08-12
+Date echeance: 2025-09-11
+IBAN: FR7681099851973637896738462
+BIC: RFJKOTKA
+Montant HT: 9477.53 EUR
+Montant TVA: 1895.51 EUR
+Montant TTC: 11373.04 EUR
+
+Lignes:
+- Synthesize Next-Generation Markets | qty=1 | pu=977.85 | total=977.85
+- Facilitate One-To-One Niches | qty=2 | pu=813.02 | total=1626.04
+- Maximize Best-Of-Breed Info-Mediaries | qty=5 | pu=1175.21 | total=5876.05
+- Redefine Global Markets | qty=1 | pu=997.59 | total=997.59

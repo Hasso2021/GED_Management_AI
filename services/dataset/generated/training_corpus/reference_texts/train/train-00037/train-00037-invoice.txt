@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DORAS
+SIRET: 01585179300347
+TVA: FR74015851793
+Client: JADESSIANE
+SIRET client: 02405385200026
+Numero facture: FAC-202601-0037
+Date emission: 2026-01-12
+Date echeance: 2026-02-11
+IBAN: FR7654851919825323282153789
+BIC: TDINOSJI
+Montant HT: 7823.38 EUR
+Montant TVA: 1564.68 EUR
+Montant TTC: 9388.06 EUR
+
+Lignes:
+- Generate Synergistic Technologies | qty=1 | pu=591.62 | total=591.62
+- Re-Contextualize 24/7 Bandwidth | qty=5 | pu=840.94 | total=4204.70
+- Matrix Real-Time Networks | qty=2 | pu=653.13 | total=1306.26
+- Redefine Out-Of-The-Box Paradigms | qty=3 | pu=573.60 | total=1720.80

@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: ACME DIGITAL SAS
+SIRET: 04777050226157
+Numéro TVA intracommunautaire: FR32047770502
+Adresse: 30 rue de la Paix, 40073 Paris
+
+N° FACTURE: FAC-2026-6096
+Date de facture: 2025-06-08
+Date d'échéance: 2025-08-07
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     30779.34 €    30779.34 €
+
+Montant HT :       30779.34 €
+TVA 5.5% :       1692.86 €
+Montant TTC :      32472.20 €
+
+Règlement par virement bancaire à réception de facture.

@@ -1,0 +1,9 @@
+RELEVÉ D'IDENTITÉ BANCAIRE
+Banque : Hello bank
+Domiciliation : Agence République — Nice
+Titulaire du compte : Mme Mila LOPEZ
+Adresse du titulaire : 14 rue Saint-Michel, 81448 Grenoble
+IBAN : FR76 6999 4885 6105 2260 1301 591
+BIC / SWIFT : BNPAFRPP
+Ce relevé d'identité bancaire identifie uniquement le compte.
+Il ne constitue pas un ordre de virement.

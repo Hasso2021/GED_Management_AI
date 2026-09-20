@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: EQUANS
+SIRET: 02407610100047
+TVA: FR78024076101
+Client: DOUKA BE MTSAPERE
+SIRET client: 02404912400183
+Numero facture: FAC-202509-0043
+Date emission: 2025-09-16
+Date echeance: 2025-10-16
+IBAN: FR7668324451320353416228200
+BIC: WFPBQVZW
+Montant HT: 3484.46 EUR
+Montant TVA: 696.89 EUR
+Montant TTC: 4181.35 EUR
+
+Lignes:
+- Synergize Cross-Media Infrastructures | qty=4 | pu=142.05 | total=568.20
+- Cultivate Distributed Deliverables | qty=2 | pu=1416.87 | total=2833.74
+- Generate Bricks-And-Clicks Applications | qty=1 | pu=82.52 | total=82.52

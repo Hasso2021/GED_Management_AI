@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: TECHNO SERVICES SARL
+SIRET: 02652509582314
+Numéro TVA intracommunautaire: FR86026525095
+Adresse: 70 rue de la Paix, 99382 Paris
+
+N° DEVIS: DEV-2026-4899
+Date de devis: 2025-03-26
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     1124.08 €    1124.08 €
+
+Montant HT :       1124.08 €
+TVA 10.0% :       112.41 €
+Montant TTC :      1236.49 €
+
+Bon pour accord : ____________________

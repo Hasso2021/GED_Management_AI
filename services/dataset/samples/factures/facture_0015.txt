@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: TECHNO ACME SAS
+SIRET: 03909478463580
+Numéro TVA intracommunautaire: FR15039094784
+Adresse: 40 rue de la Paix, 84733 Paris
+
+N° FACTURE: FAC-2026-4340
+Date de facture: 2025-04-01
+Date d'échéance: 2025-05-01
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     17650.90 €    17650.90 €
+
+Montant HT :       17650.90 €
+TVA 5.5% :       970.80 €
+Montant TTC :      18621.70 €
+
+Règlement par virement bancaire à réception de facture.

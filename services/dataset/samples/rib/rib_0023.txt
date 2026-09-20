@@ -1,0 +1,18 @@
+LCL
+
+Objet : communication des coordonnées bancaires
+
+Bonjour,
+
+Veuillez trouver ci-dessous le relevé d'identité bancaire du compte
+ouvert dans nos livres au nom de Mme Sacha BARBIER.
+
+Titulaire du compte : Mme Sacha BARBIER
+Domiciliation : LCL Tours
+IBAN : FR76 5187 3466 9130 9939 3911 166
+BIC : CRLYFRPP
+
+Ces informations suffisent pour créditer le compte par virement.
+Conservez ce relevé ; il ne contient pas de numéro de carte.
+
+Service clientèle — LCL

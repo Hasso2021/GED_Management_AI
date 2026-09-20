@@ -1,0 +1,24 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE COMBANI
+SIRET: 02404912400079
+TVA: FR45024049124
+Client: JO LE TAXI
+SIRET client: 02405115300021
+Numero facture: FAC-202603-0064
+Date emission: 2026-03-12
+Date echeance: 2026-04-11
+IBAN: FR7665107270528142188259281
+BIC: QAAZMPEH
+Montant HT: 4353.75 EUR
+Montant TVA: 870.75 EUR
+Montant TTC: 5224.50 EUR
+
+Lignes:
+- Deploy Extensible Roi | qty=3 | pu=461.50 | total=1384.50
+- Redefine Cross-Media E-Markets | qty=1 | pu=207.15 | total=207.15
+- Drive B2C Supply-Chains | qty=3 | pu=469.70 | total=1409.10
+- Productize Bricks-And-Clicks Deliverables | qty=5 | pu=270.60 | total=1353.00
+
+Notes:
+- Identifiant fournisseur potentiellement falsifie.

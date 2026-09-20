@@ -1,0 +1,16 @@
+Relevé d'identité bancaire — BoursoBank
+
+Titulaire du compte
+M. Nina LOPEZ
+
+Coordonnées du compte
+Code banque : 41679
+Code guichet : 64748
+Numéro de compte : 13801611140
+Clé RIB : 45
+
+IBAN : FR76 4167 9647 4813 8016 1114 045
+BIC : BOUSFRPP
+Domiciliation bancaire : Agence Centre Reims
+
+Document destiné à communiquer l'identité du compte à un tiers.

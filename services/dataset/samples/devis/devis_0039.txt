@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: SOLUTIONS TECHNO SAS
+SIRET: 02683288845648
+Numéro TVA intracommunautaire: FR25026832888
+Adresse: 87 rue de la Paix, 15328 Paris
+
+N° DEVIS: DEV-2026-5424
+Date de devis: 2025-10-15
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     22957.57 €    22957.57 €
+
+Montant HT :       22957.57 €
+TVA 10.0% :       2295.76 €
+Montant TTC :      25253.33 €
+
+Bon pour accord : ____________________

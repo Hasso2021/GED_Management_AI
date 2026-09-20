@@ -1,0 +1,14 @@
+ATTESTATION DE VIGILANCE
+
+Fournisseur: CAR CENTRE
+SIRET: 02404706000058
+TVA: FR61024047060
+Client: TSARA BOUTIQUE
+SIRET client: 02404687200024
+Reference attestation: ATTEST-202603-0068
+Date emission: 2026-03-02
+Date expiration: 2026-02-22
+
+Notes:
+- Document de conformite pour verification fournisseur.
+- Attestation hors validite.

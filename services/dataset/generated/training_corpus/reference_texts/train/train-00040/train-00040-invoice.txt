@@ -1,0 +1,22 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: EIFFAGE CONSTRUCTION BOURGOGNE FRANCHE COMTE AMEL
+SIRET: 01545141200090
+TVA: FR82015451412
+Client: PACOTTE ET MIGNOTTE
+SIRET client: 01665011100103
+Numero facture: FAC-202510-0040
+Date emission: 2025-10-04
+IBAN: FR7637484833297869719804828
+BIC: UXRGFCJE
+Montant HT: 6902.75 EUR
+Montant TVA: 1380.55 EUR
+Montant TTC: 8283.30 EUR
+
+Lignes:
+- Engage Collaborative Web-Readiness | qty=1 | pu=1416.53 | total=1416.53
+- Innovate Dot-Com Methodologies | qty=4 | pu=1212.36 | total=4849.44
+- Scale Holistic Info-Mediaries | qty=3 | pu=212.26 | total=636.78
+
+Notes:
+- La date d'echeance est absente du document.

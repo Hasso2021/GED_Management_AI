@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: DIGITAL GROUPE SASU
+SIRET: 07115473302635
+Numéro TVA intracommunautaire: FR94071154733
+Adresse: 93 rue de la Paix, 90004 Paris
+
+N° DEVIS: DEV-2026-5361
+Date de devis: 2025-07-31
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     43189.41 €    43189.41 €
+
+Montant HT :       43189.41 €
+TVA 20.0% :       8637.88 €
+Montant TTC :      51827.29 €
+
+Bon pour accord : ____________________

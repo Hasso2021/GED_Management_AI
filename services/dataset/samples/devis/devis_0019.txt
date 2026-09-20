@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: GROUPE SERVICES SARL
+SIRET: 09990662454050
+Numéro TVA intracommunautaire: FR69099906624
+Adresse: 30 rue de la Paix, 36029 Paris
+
+N° DEVIS: DEV-2026-0551
+Date de devis: 2025-06-26
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     11573.82 €    11573.82 €
+
+Montant HT :       11573.82 €
+TVA 5.5% :       636.56 €
+Montant TTC :      12210.38 €
+
+Bon pour accord : ____________________

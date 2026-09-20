@@ -1,0 +1,9 @@
+RIB — Hello bank
+
+Titulaire : M. Yanis COLIN
+Compte : compte courant particulier
+Domiciliation : Agence Gare
+IBAN FR76 4564 5588 2816 0630 7350 067
+BIC BNPAFRPP
+
+Relevé d'identité bancaire à transmettre pour un virement.

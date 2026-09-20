@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE CAVANI
+SIRET: 02404912400376
+TVA: FR45024049124
+Client: DORAS
+SIRET client: 01585179300065
+Numero facture: FAC-202509-0049
+Date emission: 2025-09-04
+Date echeance: 2025-10-04
+IBAN: FR7697245848746368435188813
+BIC: BZHKCDKW
+Montant HT: 7101.51 EUR
+Montant TVA: 1420.30 EUR
+Montant TTC: 8521.81 EUR
+
+Lignes:
+- Repurpose Front-End Metrics | qty=5 | pu=1008.87 | total=5044.35
+- Disintermediate Open-Source Content | qty=1 | pu=890.05 | total=890.05
+- Expedite Sticky Vortals | qty=1 | pu=1167.11 | total=1167.11
+
+Notes:
+- Identifiant fournisseur potentiellement falsifie.

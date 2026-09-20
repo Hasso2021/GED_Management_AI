@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: SAF COIFFURE
+SIRET: 02407648100019
+TVA: FR54024076481
+Client: TRANSIT DES ILES
+SIRET client: 02404461200026
+Numero facture: FAC-202511-0036
+Date emission: 2025-11-06
+Date echeance: 2025-12-06
+IBAN: FR7649900036322113475791517
+BIC: ZTOVKJYS
+Montant HT: 2984.31 EUR
+Montant TVA: 596.86 EUR
+Montant TTC: 3581.17 EUR
+
+Lignes:
+- Brand 24/7 Schemas | qty=5 | pu=412.35 | total=2061.75
+- Re-Intermediate Viral Relationships | qty=2 | pu=461.28 | total=922.56

@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DISTRICT DE LEVET
+SIRET: 01625002900796
+TVA: FR33016250029
+Client: LE FIACRE
+SIRET client: 00732021100035
+Numero facture: FAC-202510-0002
+Date emission: 2025-10-31
+Date echeance: 2025-11-30
+IBAN: FR7644153912327108538381889
+BIC: FSTOLMFZ
+Montant HT: 10013.30 EUR
+Montant TVA: 2002.66 EUR
+Montant TTC: 12015.96 EUR
+
+Lignes:
+- Unleash Impactful Action-Items | qty=5 | pu=148.26 | total=741.30
+- Aggregate Intuitive Mindshare | qty=1 | pu=626.59 | total=626.59
+- Unleash 24/7 Action-Items | qty=5 | pu=1293.74 | total=6468.70
+- Integrate Rich Platforms | qty=3 | pu=725.57 | total=2176.71

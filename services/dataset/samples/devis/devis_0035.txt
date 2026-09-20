@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: SERVICES SOLUTIONS SAS
+SIRET: 08613584683884
+Numéro TVA intracommunautaire: FR35086135846
+Adresse: 82 rue de la Paix, 83097 Paris
+
+N° DEVIS: DEV-2026-8079
+Date de devis: 2025-06-12
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     12069.11 €    12069.11 €
+
+Montant HT :       12069.11 €
+TVA 10.0% :       1206.91 €
+Montant TTC :      13276.02 €
+
+Bon pour accord : ____________________

@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE
+SIRET: 02404912400290
+TVA: FR45024049124
+Client: JUSTE A COTE
+SIRET client: 02405478500027
+Numero facture: FAC-202602-0041
+Date emission: 2026-02-16
+IBAN: FR7601736450247961376335028
+BIC: DNZJFHOK
+Montant HT: 11509.99 EUR
+Montant TVA: 2302.00 EUR
+Montant TTC: 13811.99 EUR
+
+Lignes:
+- Unleash Distributed Users | qty=5 | pu=1253.81 | total=6269.05
+- Streamline Holistic Supply-Chains | qty=2 | pu=200.48 | total=400.96
+- Streamline Global Networks | qty=2 | pu=149.49 | total=298.98
+- Drive Best-Of-Breed Technologies | qty=4 | pu=1135.25 | total=4541.00
+
+Notes:
+- La date d'echeance est absente du document.

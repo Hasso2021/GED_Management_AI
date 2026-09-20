@@ -1,0 +1,22 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: COOL VOYAGES
+SIRET: 02406785200012
+TVA: FR66024067852
+Client: DISTRICT DE DOLE
+SIRET client: 01625002900622
+Numero facture: FAC-202512-0065
+Date emission: 2025-12-16
+Date echeance: 2026-01-15
+IBAN: FR7659764107208006915289877
+BIC: FTATXJFF
+Montant HT: 3327.86 EUR
+Montant TVA: 665.57 EUR
+Montant TTC: 3993.43 EUR
+
+Lignes:
+- Maximize Frictionless Initiatives | qty=2 | pu=706.11 | total=1412.22
+- Revolutionize User-Centric Content | qty=4 | pu=478.91 | total=1915.64
+
+Notes:
+- Le devis et la facture n'ont pas le meme montant.

@@ -1,0 +1,14 @@
+ATTESTATION DE VIGILANCE
+
+Fournisseur: ENTREPRISE MICHEL AHMED
+SIRET: 02408232300015
+TVA: FR23024082323
+Client: SOPREMA
+SIRET client: 02405111200019
+Reference attestation: ATTEST-202511-0029
+Date emission: 2025-11-10
+Date expiration: 2025-11-02
+
+Notes:
+- Document de conformite pour verification fournisseur.
+- Attestation hors validite.

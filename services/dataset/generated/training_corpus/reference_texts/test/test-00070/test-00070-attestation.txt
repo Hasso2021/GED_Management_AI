@@ -1,0 +1,13 @@
+ATTESTATION DE VIGILANCE
+
+Fournisseur: BANGA PIECES AUTO
+SIRET: 01555088200888
+TVA: FR23015550882
+Client: SUPER U
+SIRET client: 00728037300015
+Reference attestation: ATTEST-202509-0070
+Date emission: 2025-09-17
+Date expiration: 2026-01-15
+
+Notes:
+- Document de conformite pour verification fournisseur.

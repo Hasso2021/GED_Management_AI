@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: SOLUTIONS INNOV SASU
+SIRET: 01442252320612
+Numéro TVA intracommunautaire: FR52014422523
+Adresse: 36 rue de la Paix, 17047 Paris
+
+N° FACTURE: FAC-2026-6094
+Date de facture: 2025-03-22
+Date d'échéance: 2025-05-06
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     27659.19 €    27659.19 €
+
+Montant HT :       27659.19 €
+TVA 10.0% :       2765.92 €
+Montant TTC :      30425.11 €
+
+Règlement par virement bancaire à réception de facture.

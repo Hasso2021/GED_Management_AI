@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: SOLUTIONS SOLUTIONS SASU
+SIRET: 02870175043078
+Numéro TVA intracommunautaire: FR11028701750
+Adresse: 58 rue de la Paix, 66307 Paris
+
+N° FACTURE: FAC-2026-5966
+Date de facture: 2025-10-18
+Date d'échéance: 2025-11-17
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     10694.67 €    10694.67 €
+
+Montant HT :       10694.67 €
+TVA 5.5% :       588.21 €
+Montant TTC :      11282.88 €
+
+Règlement par virement bancaire à réception de facture.

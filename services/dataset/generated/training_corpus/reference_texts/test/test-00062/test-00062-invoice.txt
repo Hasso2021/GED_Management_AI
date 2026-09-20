@@ -1,0 +1,22 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: SNC MCBTP
+SIRET: 02406684700013
+TVA: FR58024066847
+Client: DOUKA NAMOHAKO
+SIRET client: 02406985800025
+Numero facture: FAC-202510-0062
+Date emission: 2025-10-13
+Date echeance: 2025-11-12
+IBAN: FR7657852394438005847055088
+BIC: QVFHZQQT
+Montant HT: 5425.12 EUR
+Montant TVA: 1085.02 EUR
+Montant TTC: 6660.13 EUR
+
+Lignes:
+- Target Viral Eyeballs | qty=4 | pu=787.70 | total=3150.80
+- Transition Holistic Solutions | qty=4 | pu=568.58 | total=2274.32
+
+Notes:
+- Montant TTC incoherent avec le detail des lignes.

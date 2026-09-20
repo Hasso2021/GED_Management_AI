@@ -1,0 +1,16 @@
+Relevé d'identité bancaire — BNP Paribas
+
+Titulaire du compte
+M. Clara MEYER
+
+Coordonnées du compte
+Code banque : 84333
+Code guichet : 92497
+Numéro de compte : 86841497494
+Clé RIB : 59
+
+IBAN : FR76 8433 3924 9786 8414 9749 459
+BIC : BNPAFRPP
+Domiciliation bancaire : Agence Gare Clermont-Ferrand
+
+Document destiné à communiquer l'identité du compte à un tiers.

@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DORAS
+SIRET: 01585179300081
+TVA: FR74015851793
+Client: DOUKA BE MANGROVE KAWENI
+SIRET client: 02404912400035
+Numero facture: FAC-202511-0046
+Date emission: 2025-11-15
+Date echeance: 2025-12-15
+IBAN: FR7689047088719331938420594
+BIC: YFAHIQOI
+Montant HT: 8562.40 EUR
+Montant TVA: 1712.48 EUR
+Montant TTC: 10274.88 EUR
+
+Lignes:
+- Monetize Wireless E-Commerce | qty=5 | pu=1360.64 | total=6803.20
+- Synthesize Killer Architectures | qty=2 | pu=879.60 | total=1759.20

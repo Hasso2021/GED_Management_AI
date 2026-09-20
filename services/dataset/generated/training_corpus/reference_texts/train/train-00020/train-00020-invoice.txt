@@ -1,0 +1,22 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: SFR
+SIRET: 02407217500128
+TVA: FR37024072175
+Client: E.D.T.S. 2000
+SIRET client: 02404058600018
+Numero facture: FAC-202507-0020
+Date emission: 2025-07-31
+Date echeance: 2025-08-30
+IBAN: FR7646277278169336684580087
+BIC: TEQIXAHO
+Montant HT: 3686.78 EUR
+Montant TVA: 737.36 EUR
+Montant TTC: 4574.13 EUR
+
+Lignes:
+- Architect Out-Of-The-Box Portals | qty=1 | pu=1057.58 | total=1057.58
+- Re-Intermediate Strategic Networks | qty=4 | pu=657.30 | total=2629.20
+
+Notes:
+- Montant TTC incoherent avec le detail des lignes.

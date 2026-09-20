@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: DIGITAL CONSULTING SARL
+SIRET: 08376369825357
+Numéro TVA intracommunautaire: FR93083763698
+Adresse: 23 rue de la Paix, 96027 Paris
+
+N° FACTURE: FAC-2026-6508
+Date de facture: 2026-02-09
+Date d'échéance: 2026-03-26
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     31432.23 €    31432.23 €
+
+Montant HT :       31432.23 €
+TVA 20.0% :       6286.45 €
+Montant TTC :      37718.68 €
+
+Règlement par virement bancaire à réception de facture.

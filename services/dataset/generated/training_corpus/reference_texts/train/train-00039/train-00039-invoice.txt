@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: MAYOTTE HYGIENE EXPRESS
+SIRET: 02405355500041
+TVA: FR49024053555
+Client: FABRICE GILLOTTE
+SIRET client: 01575114200033
+Numero facture: FAC-202509-0039
+Date emission: 2025-09-15
+Date echeance: 2025-10-15
+IBAN: FR7602534410261641357075811
+BIC: VPBSGZWT
+Montant HT: 11963.27 EUR
+Montant TVA: 2392.65 EUR
+Montant TTC: 14355.92 EUR
+
+Lignes:
+- Maximize Frictionless E-Business | qty=4 | pu=672.73 | total=2690.92
+- Engineer Strategic Partnerships | qty=3 | pu=1420.12 | total=4260.36
+- Unleash Plug-And-Play Users | qty=1 | pu=1191.74 | total=1191.74
+- Matrix Plug-And-Play Applications | qty=5 | pu=764.05 | total=3820.25

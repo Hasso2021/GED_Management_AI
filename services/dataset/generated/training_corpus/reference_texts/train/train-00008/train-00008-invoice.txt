@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: PIZZERIA LE DJEMBE
+SIRET: 02408254700027
+TVA: FR16024082547
+Client: L'ENFANT NOIR
+SIRET client: 02405142700011
+Numero facture: FAC-202508-0008
+Date emission: 2025-08-31
+Date echeance: 2025-09-30
+IBAN: FR7694122052664526712109879
+BIC: GYREQPXH
+Montant HT: 8391.73 EUR
+Montant TVA: 1678.35 EUR
+Montant TTC: 10070.08 EUR
+
+Lignes:
+- Incubate Granular Networks | qty=5 | pu=1289.93 | total=6449.65
+- Expedite Visionary Convergence | qty=4 | pu=485.52 | total=1942.08

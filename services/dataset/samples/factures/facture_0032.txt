@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: SERVICES GROUPE SA
+SIRET: 03842786609059
+Numéro TVA intracommunautaire: FR80038427866
+Adresse: 27 rue de la Paix, 94133 Paris
+
+N° FACTURE: FAC-2026-0573
+Date de facture: 2025-12-02
+Date d'échéance: 2026-01-31
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     36294.48 €    36294.48 €
+
+Montant HT :       36294.48 €
+TVA 5.5% :       1996.20 €
+Montant TTC :      38290.68 €
+
+Règlement par virement bancaire à réception de facture.

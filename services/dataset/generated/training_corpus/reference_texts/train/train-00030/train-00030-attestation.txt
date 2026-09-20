@@ -1,0 +1,14 @@
+ATTESTATION DE VIGILANCE
+
+Fournisseur: SFR
+SIRET: 02407217500029
+TVA: FR37024072175
+Client: COOL VOYAGES
+SIRET client: 02406785200012
+Reference attestation: ATTEST-202511-0030
+Date emission: 2025-11-10
+Date expiration: 2025-11-02
+
+Notes:
+- Document de conformite pour verification fournisseur.
+- Attestation hors validite.

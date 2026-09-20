@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: ECAH
+SIRET: 02407591300020
+TVA: FR96024075913
+Client: ESPACE AUTO PRESQU'ILE
+SIRET client: 00718053200041
+Numero facture: FAC-202511-0006
+Date emission: 2025-11-06
+Date echeance: 2025-12-06
+IBAN: FR7626097224304357311435764
+BIC: RIJLKQOX
+Montant HT: 8603.02 EUR
+Montant TVA: 1720.60 EUR
+Montant TTC: 10323.62 EUR
+
+Lignes:
+- Transition Efficient Initiatives | qty=2 | pu=945.81 | total=1891.62
+- Generate Open-Source E-Services | qty=4 | pu=702.13 | total=2808.52
+- Benchmark 24/7 Roi | qty=2 | pu=419.31 | total=838.62
+- Extend Dynamic Roi | qty=3 | pu=1021.42 | total=3064.26

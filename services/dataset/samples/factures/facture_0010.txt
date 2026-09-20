@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: CONSULTING ACME SASU
+SIRET: 02304121297414
+Numéro TVA intracommunautaire: FR90023041212
+Adresse: 30 rue de la Paix, 10720 Paris
+
+N° FACTURE: FAC-2026-9979
+Date de facture: 2025-08-09
+Date d'échéance: 2025-09-08
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     8036.28 €    8036.28 €
+
+Montant HT :       8036.28 €
+TVA 10.0% :       803.63 €
+Montant TTC :      8839.91 €
+
+Règlement par virement bancaire à réception de facture.

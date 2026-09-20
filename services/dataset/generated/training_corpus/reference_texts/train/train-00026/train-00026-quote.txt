@@ -1,0 +1,22 @@
+DEVIS
+
+Fournisseur: GAZONS MAYOTTE SERVICES VERTS
+SIRET: 02403807700020
+TVA: FR78024038077
+Client: CARONI TRANSPORT
+SIRET client: 02405894300036
+Numero devis: DEV-202512-0026
+Date emission: 2025-12-17
+Date echeance: 2026-01-16
+Montant HT: 6719.60 EUR
+Montant TVA: 1343.92 EUR
+Montant TTC: 8063.52 EUR
+
+Lignes:
+- Morph Interactive Deliverables | qty=2 | pu=494.44 | total=988.88
+- Synthesize Leading-Edge Solutions | qty=3 | pu=1126.59 | total=3379.77
+- Drive World-Class Eyeballs | qty=4 | pu=633.57 | total=2534.28
+
+Notes:
+- Devis commercial lie a la facture.
+- Le devis et la facture n'ont pas le meme montant.

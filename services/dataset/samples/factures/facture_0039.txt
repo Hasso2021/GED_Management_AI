@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: CONSULTING SERVICES SAS
+SIRET: 02199677318147
+Numéro TVA intracommunautaire: FR67021996773
+Adresse: 13 rue de la Paix, 29070 Paris
+
+N° FACTURE: FAC-2026-5425
+Date de facture: 2026-01-09
+Date d'échéance: 2026-02-23
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     34804.15 €    34804.15 €
+
+Montant HT :       34804.15 €
+TVA 20.0% :       6960.83 €
+Montant TTC :      41764.98 €
+
+Règlement par virement bancaire à réception de facture.

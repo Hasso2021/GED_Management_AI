@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE
+SIRET: 02404912400027
+TVA: FR45024049124
+Client: EIFFAGE CONSTRUCTION FRANCHE COMTE
+SIRET client: 01545141200058
+Numero facture: FAC-202601-0018
+Date emission: 2026-01-17
+Date echeance: 2026-02-16
+IBAN: FR7625097190677980006919606
+BIC: TKMWBYTB
+Montant HT: 7227.38 EUR
+Montant TVA: 1445.48 EUR
+Montant TTC: 8822.85 EUR
+
+Lignes:
+- Empower Scalable Portals | qty=2 | pu=132.01 | total=264.02
+- Extend Bleeding-Edge Architectures | qty=3 | pu=845.45 | total=2536.35
+- Evolve Mission-Critical Niches | qty=3 | pu=1475.67 | total=4427.01
+
+Notes:
+- Montant TTC incoherent avec le detail des lignes.

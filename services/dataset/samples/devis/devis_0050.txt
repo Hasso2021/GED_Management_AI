@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: TECHNO SOLUTIONS SAS
+SIRET: 07982110937796
+Numéro TVA intracommunautaire: FR21079821109
+Adresse: 50 rue de la Paix, 95659 Paris
+
+N° DEVIS: DEV-2026-0833
+Date de devis: 2026-02-08
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     7429.76 €    7429.76 €
+
+Montant HT :       7429.76 €
+TVA 5.5% :       408.64 €
+Montant TTC :      7838.40 €
+
+Bon pour accord : ____________________

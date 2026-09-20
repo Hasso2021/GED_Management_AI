@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: GROUPE DIGITAL SAS
+SIRET: 06961333272141
+Numéro TVA intracommunautaire: FR75069613332
+Adresse: 59 rue de la Paix, 76953 Paris
+
+N° FACTURE: FAC-2026-8293
+Date de facture: 2025-10-16
+Date d'échéance: 2025-11-15
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     26823.04 €    26823.04 €
+
+Montant HT :       26823.04 €
+TVA 5.5% :       1475.27 €
+Montant TTC :      28298.31 €
+
+Règlement par virement bancaire à réception de facture.

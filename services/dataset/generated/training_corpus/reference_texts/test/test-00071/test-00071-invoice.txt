@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: PIERRE DE L'YONNE
+SIRET: 00708077300232
+TVA: FR10007080773
+Client: JOLICAPRICE
+SIRET client: 01585158700061
+Numero facture: FAC-202601-0071
+Date emission: 2026-01-16
+Date echeance: 2026-02-15
+IBAN: FR7651184893071976669889116
+BIC: ALKJYMWL
+Montant HT: 10236.30 EUR
+Montant TVA: 2047.26 EUR
+Montant TTC: 12283.56 EUR
+
+Lignes:
+- Maximize Clicks-And-Mortar Functionalities | qty=3 | pu=672.94 | total=2018.82
+- Streamline Revolutionary Architectures | qty=4 | pu=1359.64 | total=5438.56
+- Expedite One-To-One Functionalities | qty=2 | pu=1389.46 | total=2778.92

@@ -1,0 +1,19 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: MEPHISTO
+SIRET: 01575462500034
+TVA: FR55015754625
+Client: ECAH
+SIRET client: 02407591300020
+Numero facture: FAC-202601-0058
+Date emission: 2026-01-01
+Date echeance: 2026-01-31
+IBAN: FR7698941206362794726897458
+BIC: GDVEDQDC
+Montant HT: 1832.34 EUR
+Montant TVA: 366.47 EUR
+Montant TTC: 2198.81 EUR
+
+Lignes:
+- Innovate Proactive Interfaces | qty=3 | pu=216.70 | total=650.10
+- Optimize Out-Of-The-Box E-Tailers | qty=1 | pu=1182.24 | total=1182.24

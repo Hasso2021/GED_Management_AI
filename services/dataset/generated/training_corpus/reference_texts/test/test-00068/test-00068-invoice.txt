@@ -1,0 +1,24 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: CAR CENTRE
+SIRET: 02404706000058
+TVA: FR61024047060
+Client: TSARA BOUTIQUE
+SIRET client: 02404687200024
+Numero facture: FAC-202603-0068
+Date emission: 2026-03-02
+Date echeance: 2026-04-01
+IBAN: FR7699623400431372711917400
+BIC: XKQSPZWQ
+Montant HT: 15212.77 EUR
+Montant TVA: 3042.55 EUR
+Montant TTC: 18255.32 EUR
+
+Lignes:
+- Seize Innovative E-Business | qty=3 | pu=1117.85 | total=3353.55
+- Drive One-To-One Relationships | qty=4 | pu=753.34 | total=3013.36
+- Enable Ubiquitous Eyeballs | qty=5 | pu=1471.40 | total=7357.00
+- Re-Contextualize Interactive Niches | qty=2 | pu=744.43 | total=1488.86
+
+Notes:
+- Attestation hors validite.

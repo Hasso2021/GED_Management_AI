@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: SERVICES INNOV SASU
+SIRET: 01948583981799
+Numéro TVA intracommunautaire: FR91019485839
+Adresse: 24 rue de la Paix, 22478 Paris
+
+N° FACTURE: FAC-2026-6131
+Date de facture: 2025-12-01
+Date d'échéance: 2026-01-30
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     1299.12 €    1299.12 €
+
+Montant HT :       1299.12 €
+TVA 20.0% :       259.82 €
+Montant TTC :      1558.94 €
+
+Règlement par virement bancaire à réception de facture.

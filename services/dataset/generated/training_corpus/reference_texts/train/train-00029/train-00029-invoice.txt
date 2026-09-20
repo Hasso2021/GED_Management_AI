@@ -1,0 +1,23 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: ENTREPRISE MICHEL AHMED
+SIRET: 02408232300015
+TVA: FR23024082323
+Client: SOPREMA
+SIRET client: 02405111200019
+Numero facture: FAC-202511-0029
+Date emission: 2025-11-10
+Date echeance: 2025-12-10
+IBAN: FR7638311957643051427818209
+BIC: BSUKXOAP
+Montant HT: 6593.70 EUR
+Montant TVA: 1318.74 EUR
+Montant TTC: 7912.44 EUR
+
+Lignes:
+- Transform Interactive Architectures | qty=4 | pu=879.31 | total=3517.24
+- Re-Contextualize 24/7 E-Business | qty=5 | pu=221.35 | total=1106.75
+- Iterate Scalable Interfaces | qty=3 | pu=656.57 | total=1969.71
+
+Notes:
+- Attestation hors validite.

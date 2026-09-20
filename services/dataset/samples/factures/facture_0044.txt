@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: GROUPE ACME SAS
+SIRET: 04567256602081
+Numéro TVA intracommunautaire: FR69045672566
+Adresse: 8 rue de la Paix, 60933 Paris
+
+N° FACTURE: FAC-2026-1843
+Date de facture: 2025-12-04
+Date d'échéance: 2026-01-18
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     2373.35 €    2373.35 €
+
+Montant HT :       2373.35 €
+TVA 20.0% :       474.67 €
+Montant TTC :      2848.02 €
+
+Règlement par virement bancaire à réception de facture.

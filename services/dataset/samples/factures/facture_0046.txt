@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: SOLUTIONS ACME SA
+SIRET: 08766660223775
+Numéro TVA intracommunautaire: FR32087666602
+Adresse: 38 rue de la Paix, 25094 Paris
+
+N° FACTURE: FAC-2026-6651
+Date de facture: 2025-07-04
+Date d'échéance: 2025-08-18
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     33031.94 €    33031.94 €
+
+Montant HT :       33031.94 €
+TVA 20.0% :       6606.39 €
+Montant TTC :      39638.33 €
+
+Règlement par virement bancaire à réception de facture.

@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: CONSULTING INNOV SARL
+SIRET: 09292873287274
+Numéro TVA intracommunautaire: FR60092928732
+Adresse: 60 rue de la Paix, 92665 Paris
+
+N° FACTURE: FAC-2026-3311
+Date de facture: 2025-07-15
+Date d'échéance: 2025-08-29
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     48282.92 €    48282.92 €
+
+Montant HT :       48282.92 €
+TVA 5.5% :       2655.56 €
+Montant TTC :      50938.48 €
+
+Règlement par virement bancaire à réception de facture.

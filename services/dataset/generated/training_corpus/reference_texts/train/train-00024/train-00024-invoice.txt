@@ -1,0 +1,24 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: DOUKA BE POROANI
+SIRET: 02404912400384
+TVA: FR45024049124
+Client: JO LE TAXI
+SIRET client: 02405115300021
+Numero facture: FAC-202511-0024
+Date emission: 2025-11-16
+Date echeance: 2025-12-16
+IBAN: FR7661026614667146248944269
+BIC: JWUWKYOR
+Montant HT: 9209.05 EUR
+Montant TVA: 1841.81 EUR
+Montant TTC: 11050.86 EUR
+
+Lignes:
+- Extend Killer Relationships | qty=1 | pu=414.90 | total=414.90
+- Extend Collaborative E-Markets | qty=2 | pu=677.11 | total=1354.22
+- Morph Back-End Content | qty=5 | pu=1409.05 | total=7045.25
+- Seize Open-Source Deliverables | qty=4 | pu=98.67 | total=394.68
+
+Notes:
+- Identifiant fournisseur potentiellement falsifie.

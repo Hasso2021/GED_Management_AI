@@ -1,0 +1,16 @@
+Relevé d'identité bancaire — BNP Paribas
+
+Titulaire du compte
+Mme Paul MARCHAND
+
+Coordonnées du compte
+Code banque : 68064
+Code guichet : 54832
+Numéro de compte : 82828199571
+Clé RIB : 31
+
+IBAN : FR76 6806 4548 3282 8281 9957 131
+BIC : BNPAFRPP
+Domiciliation bancaire : Agence Universités Orléans
+
+Document destiné à communiquer l'identité du compte à un tiers.

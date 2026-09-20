@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: DIGITAL DIGITAL SAS
+SIRET: 01269150659282
+Numéro TVA intracommunautaire: FR90012691506
+Adresse: 43 rue de la Paix, 34424 Paris
+
+N° FACTURE: FAC-2026-8256
+Date de facture: 2025-05-01
+Date d'échéance: 2025-06-30
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     18780.36 €    18780.36 €
+
+Montant HT :       18780.36 €
+TVA 10.0% :       1878.04 €
+Montant TTC :      20658.40 €
+
+Règlement par virement bancaire à réception de facture.

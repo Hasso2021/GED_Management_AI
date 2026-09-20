@@ -1,0 +1,16 @@
+Relevé d'identité bancaire — LCL
+
+Titulaire du compte
+M. Yanis PERRIN
+
+Coordonnées du compte
+Code banque : 89085
+Code guichet : 83732
+Numéro de compte : 95231576525
+Clé RIB : 21
+
+IBAN : FR76 8908 5837 3295 2315 7652 521
+BIC : CRLYFRPP
+Domiciliation bancaire : Agence Centre Tours
+
+Document destiné à communiquer l'identité du compte à un tiers.

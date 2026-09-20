@@ -1,0 +1,24 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: B.P
+SIRET: 02406911400034
+TVA: FR69024069114
+Client: C.A.D.D.A.C.
+SIRET client: 00628030900102
+Numero facture: FAC-202601-0063
+Date emission: 2026-01-20
+Date echeance: 2026-02-19
+IBAN: FR7643159569554907611916330
+BIC: DJDANOZQ
+Montant HT: 9154.88 EUR
+Montant TVA: 1830.98 EUR
+Montant TTC: 10985.86 EUR
+
+Lignes:
+- Mesh Enterprise E-Business | qty=5 | pu=792.64 | total=3963.20
+- Enable Robust Experiences | qty=4 | pu=822.15 | total=3288.60
+- Extend Next-Generation Functionalities | qty=4 | pu=272.74 | total=1090.96
+- Re-Contextualize Dynamic Convergence | qty=1 | pu=812.12 | total=812.12
+
+Notes:
+- Identifiant fournisseur potentiellement falsifie.

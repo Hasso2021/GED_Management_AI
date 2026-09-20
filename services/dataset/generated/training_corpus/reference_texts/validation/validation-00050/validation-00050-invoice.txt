@@ -1,0 +1,24 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: MR.BRICOLAGE
+SIRET: 02408595300016
+TVA: FR49024085953
+Client: DOUKA BE TSOUNDZOU 2
+SIRET client: 02404912400175
+Numero facture: FAC-202512-0050
+Date emission: 2025-12-31
+Date echeance: 2026-01-30
+IBAN: FR7693512087911516346541147
+BIC: QAPZOMVF
+Montant HT: 8303.95 EUR
+Montant TVA: 1660.79 EUR
+Montant TTC: 9964.74 EUR
+
+Lignes:
+- Enhance Proactive Action-Items | qty=2 | pu=378.05 | total=756.10
+- Re-Contextualize Intuitive E-Commerce | qty=5 | pu=745.27 | total=3726.35
+- Reinvent Front-End E-Services | qty=2 | pu=954.68 | total=1909.36
+- Expedite Impactful Methodologies | qty=2 | pu=956.07 | total=1912.14
+
+Notes:
+- Le devis et la facture n'ont pas le meme montant.

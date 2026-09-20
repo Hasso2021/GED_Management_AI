@@ -1,0 +1,21 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: MCTP LA MAHORAISE DE TRAVAUX PUBLICS ASSAINISSEMENT & EAU POTABLE
+SIRET: 02407860200026
+TVA: FR15024078602
+Client: DOUKA BE KANI KELI
+SIRET client: 02404912400092
+Numero facture: FAC-202510-0034
+Date emission: 2025-10-03
+Date echeance: 2025-11-02
+IBAN: FR7639903654137231195911121
+BIC: JTLERVQQ
+Montant HT: 10508.02 EUR
+Montant TVA: 2101.60 EUR
+Montant TTC: 12609.62 EUR
+
+Lignes:
+- Mesh Magnetic Channels | qty=1 | pu=1212.23 | total=1212.23
+- Brand 24/365 Architectures | qty=5 | pu=1489.80 | total=7449.00
+- Integrate B2C Experiences | qty=3 | pu=287.11 | total=861.33
+- Target Transparent E-Markets | qty=1 | pu=985.46 | total=985.46

@@ -1,0 +1,20 @@
+FACTURE FOURNISSEUR
+
+Fournisseur: CONSTRUCTION 2003
+SIRET: 02408147300019
+TVA: FR92024081473
+Client: MORA MORA
+SIRET client: 02407520200069
+Numero facture: FAC-202512-0010
+Date emission: 2025-12-14
+Date echeance: 2026-01-13
+IBAN: FR7606751240671292911787938
+BIC: PAVIVWQP
+Montant HT: 8376.03 EUR
+Montant TVA: 1675.21 EUR
+Montant TTC: 10051.24 EUR
+
+Lignes:
+- Leverage Seamless Architectures | qty=5 | pu=465.31 | total=2326.55
+- Enhance Bleeding-Edge Experiences | qty=3 | pu=131.08 | total=393.24
+- Generate Out-Of-The-Box Experiences | qty=4 | pu=1414.06 | total=5656.24

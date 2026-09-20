@@ -1,0 +1,20 @@
+FACTURE
+
+Émetteur: GROUPE INNOV SAS
+SIRET: 09469147702078
+Numéro TVA intracommunautaire: FR49094691477
+Adresse: 80 rue de la Paix, 36876 Paris
+
+N° FACTURE: FAC-2026-4892
+Date de facture: 2025-10-12
+Date d'échéance: 2025-12-11
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     38666.29 €    38666.29 €
+
+Montant HT :       38666.29 €
+TVA 20.0% :       7733.26 €
+Montant TTC :      46399.55 €
+
+Règlement par virement bancaire à réception de facture.

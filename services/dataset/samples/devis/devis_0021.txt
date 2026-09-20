@@ -1,0 +1,20 @@
+DEVIS
+
+Émetteur: SERVICES TECHNO SASU
+SIRET: 04958462089199
+Numéro TVA intracommunautaire: FR07049584620
+Adresse: 83 rue de la Paix, 46892 Paris
+
+N° DEVIS: DEV-2026-3558
+Date de devis: 2025-06-26
+Validité du devis: 30 jours
+
+Désignation                    Quantité    PU HT       Total HT
+-------------------------------------------------------------------
+Prestation de service              1     30687.36 €    30687.36 €
+
+Montant HT :       30687.36 €
+TVA 10.0% :       3068.74 €
+Montant TTC :      33756.10 €
+
+Bon pour accord : ____________________

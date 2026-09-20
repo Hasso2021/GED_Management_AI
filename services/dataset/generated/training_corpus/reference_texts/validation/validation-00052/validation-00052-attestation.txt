@@ -1,0 +1,13 @@
+ATTESTATION DE VIGILANCE
+
+Fournisseur: DORAS
+SIRET: 01585179300347
+TVA: FR74015851793
+Client: FLEUR D'OR
+SIRET client: 02404946200021
+Reference attestation: ATTEST-202508-0052
+Date emission: 2025-08-12
+Date expiration: 2025-12-10
+
+Notes:
+- Document de conformite pour verification fournisseur.
