@@ -1,8 +1,8 @@
 # Architecture — prototype de thèse
 
-## Décision : une API, une interface, pas d’authentification
+## Décision : une API, une interface
 
-Le prototype démontre le pipeline d’enrichissement de métadonnées et pas un système d’information d’entreprise.
+Le prototype démontre le pipeline d’enrichissement de métadonnées. 
 
 
 - OCR Tesseract (`ocr_engine`, `preprocessor`)
@@ -14,7 +14,7 @@ Le prototype démontre le pipeline d’enrichissement de métadonnées et pas un
 
 ## Stockage
 
-Les fichiers uploadés et l’index JSON vivent dans le volume Docker `demo_data`. Suffisant pour une soutenance.
+Les fichiers uploadés et l’index JSON vivent dans le volume Docker `demo_data`.
 
 ## Nuxeo
 
